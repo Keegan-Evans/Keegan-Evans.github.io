@@ -2,7 +2,7 @@
 layout: post
 title: "Daily Progress"
 date: 2020-09-08
-categories: it infosec learning certifications
+catergories: it infosec learning certifications
 ---
 
 # September 8, 2020
