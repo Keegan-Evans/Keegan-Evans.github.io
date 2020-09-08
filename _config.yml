@@ -25,13 +25,13 @@ description: >- # this means to ignore newlines until "baseurl:"
   be on my journey into the IT/infosec world. I also anticipate there will be pieces on programming, 
   electronics, bicycles, cars, camping, hiking, climbing, canyoneering, fishing, conservation, 
   making, building, and gardening. 
-baseurl: "/keeganevans" # the subpath of your site, e.g. /blog
-url: "Keegan-Evans.github.io"
-twitter_username: jekyllrb
-github_username:  jekyll
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "keeganevans.com"
+twitter_username: Keegan_Evans  
+github_username:  Keegan-Evans
 
 # Build settings
-theme: minima
+theme: "ed." 
 plugins:
   - jekyll-feed
 
