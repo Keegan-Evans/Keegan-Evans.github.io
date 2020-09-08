@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/keeganevans/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/keeganevans/" rel="alternate" type="text/html" /><updated>2020-09-08T02:36:48-04:00</updated><id>http://localhost:4000/keeganevans/feed.xml</id><title type="html">Keegan Evans</title><subtitle>This site is for documenting the many adventures and projects in my life. The main focus will be on my journey into the IT/infosec world. I also anticipate there will be pieces on programming,  electronics, bicycles, cars, camping, hiking, climbing, canyoneering, fishing, conservation,  making, building, and gardening. </subtitle><entry><title type="html">Daily Progress</title><link href="http://localhost:4000/keeganevans/2020/09/07/Daily-Progress.html" rel="alternate" type="text/html" title="Daily Progress" /><published>2020-09-07T00:00:00-04:00</published><updated>2020-09-07T00:00:00-04:00</updated><id>http://localhost:4000/keeganevans/2020/09/07/Daily-Progress</id><content type="html" xml:base="http://localhost:4000/keeganevans/2020/09/07/Daily-Progress.html">&lt;h1 id=&quot;september-7-2020&quot;&gt;September 7, 2020&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Worked through and took notes on &lt;em&gt;Introduction to Buffer Overflows&lt;/em&gt;,
+&lt;em&gt;Spiking&lt;/em&gt;, and &lt;em&gt;Fuzzing&lt;/em&gt; in Heath Adam’s &lt;a href=&quot;https://www.udemy.com/course/practical-ethical-hacking/&quot;&gt;&lt;em&gt;Practical Ethical
+Hacking&lt;/em&gt;&lt;/a&gt; course
+on Udemy.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;25 minutes reading through the previously mentioned &lt;a href=&quot;https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages#what-are-static-sites-jekyll-etc--why-might-i-care-&quot;&gt;Building a Static
+Site with Jekyll and
+Github&lt;/a&gt;
+and began working on setting up my own site, which mostly consisted of
+installing Jekyll and generating the basic files.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Freecodecamp’s &lt;a href=&quot;https://www.freecodecamp.org/learn&quot;&gt;responsive webdesign
+course&lt;/a&gt; Basic CSS: &lt;em&gt;Introduction to
+Basic CSS&lt;/em&gt; -&amp;gt; &lt;em&gt;Adjust the Padding of an Element&lt;/em&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;em&gt;2.5.2 Overview of How DNS Works&lt;/em&gt; of &lt;a href=&quot;https://amzn.to/3m1poEI&quot;&gt;Networking: A Top Down Approach (Affiliate
+Link)&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">September 7, 2020</summary></entry><entry><title type="html">Daily Progress</title><link href="http://localhost:4000/keeganevans/2020/09/06/Daily-Progress.html" rel="alternate" type="text/html" title="Daily Progress" /><published>2020-09-06T00:00:00-04:00</published><updated>2020-09-06T00:00:00-04:00</updated><id>http://localhost:4000/keeganevans/2020/09/06/Daily-Progress</id><content type="html" xml:base="http://localhost:4000/keeganevans/2020/09/06/Daily-Progress.html">&lt;h1 id=&quot;september-6-2020&quot;&gt;September 6, 2020&lt;/h1&gt;
+
+&lt;p&gt;Not much on today, most of the limited time I got to work on anything on the computer was spent trying to figure out how to setup a website with Github pages, as I had essentially quite writing on my wordpress page because their “fancy” layout drove me crazy and I much prefer being able to write using vim and markdown, especially if it is combined with git/github. Apparently sometime in the past I created a repository for this but never set anything up on it. Well this evening I gave it a go, though that essentially consisted of writing a short intro and trying to figure out how to view it after deleting the default index page. Apparently I need to learn anything about how a website is actually setup, so I found the articles below that I plan to read when I get done with this. I want to have a site that is somewhat of a blog/homepage hybrid, hence the article choice. With that being said the day consisted of:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Write introduction, activate github pages, delete default index file.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Wonder how to actually display anything.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages#what-are-static-sites-jekyll-etc--why-might-i-care-&quot;&gt;Building a static website with Jekyll and GitHub Pages&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.creativebloq.com/how-to/jekyll-blog&quot;&gt;How to Build a Blog with Jekyll&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Setup my .vimrc file on my new Kali install.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">September 6, 2020</summary></entry></feed>
