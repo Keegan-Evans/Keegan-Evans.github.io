@@ -31,7 +31,7 @@ twitter_username: Keegan_Evans
 github_username:  Keegan-Evans
 
 # Build settings
-theme: "ed." 
+theme: "minima" 
 plugins:
   - jekyll-feed
 
