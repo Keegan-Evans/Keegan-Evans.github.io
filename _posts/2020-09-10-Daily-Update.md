@@ -1,6 +1,8 @@
 ---
 layout: post
-title: Daily Update
+title: Daily Progress
+date: 2020-09-10
+catergories: [it, infosec, learning, certification, cars, repair]
 ---
 
 - *Finding the Right Module* in Heath Adam's [*Practical Ethical
