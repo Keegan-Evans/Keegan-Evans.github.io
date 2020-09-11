@@ -1,0 +1,46 @@
+I"^<ul>
+  <li>
+    <p><em>Finding the Right Module</em> in Heath Adam’s <a href="https://www.udemy.com/course/practical-ethical-hacking/"><em>Practical Ethical
+Hacking</em></a> course
+on Udemy.</p>
+
+    <ul>
+      <li>A few issues came up when trying to download the <code class="language-plaintext highlighter-rouge">mona.py</code>
+script. I had issues with cURL when trying to download it in my
+Windows 10 environment. When I come up with a solution to this I will post
+it. My second attempt was to simply use <code class="language-plaintext highlighter-rouge">vim</code> to create the file directly
+in the directory. However, on my new install of Windows 10, I couldn’t
+paste the text into vim. Look below for the fix to this.</li>
+    </ul>
+  </li>
+  <li>
+    <p>In the afternoon I helped flush the coolant system on a friend’s new
+<strong><em>24 Hours of Lemons</em></strong> racecar. While flushing, we discovered that the
+coolant system has several leaks and also does not seem to be running
+coolant completely through the system very well. A “new” waterpump may be
+in order. In this race series, that cost of the vehicle less the cost of
+safety systems must be less than $500, which doesn’t leave much room for
+anything approaching actually new parts.</p>
+  </li>
+</ul>
+
+<h3 id="enable-pasting-into-vim-in-windows-10">Enable Pasting into vim in Windows 10</h3>
+
+<p>Open Powershell as an Adminstrator, then use the vim command:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+:edit $MYVIMRC
+
+</code></pre></div></div>
+
+<p>which will edit your .vimrc whereever it is then added this to it:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+source $VIMRUNTIME/mswin.vim
+
+behave mswin
+
+</code></pre></div></div>
+
+<p>and then save via the usual route.</p>
+:ET
