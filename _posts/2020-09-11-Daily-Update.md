@@ -16,7 +16,7 @@ appropriate order and then score flush hands. Finally I can produce
 a master function that will be able to determine the value of any given
 hand. 
 
-- Reread Chapter 2 of *Simply Scheme* for review.
+- Reread Chapter 2 of **Simply Scheme** for review.
 
 - I was being driven crazy by the system beep tone whenever I accidently
   entered an invalid keysequence or tried to tab to a file that didn't
@@ -38,4 +38,6 @@ ftplugin files.
 
 - [freeCodeCamp's Responsive Web Design
   Certification](https://www.freecodecamp.org/learn/) *Adjust the Margin
-of an Element* ->
+of an Element* &#8594; *Improve Compatibility with Browser Fallbacks*
+
+- Worked through HTB: Lame without metasploit as OSCP practice.
