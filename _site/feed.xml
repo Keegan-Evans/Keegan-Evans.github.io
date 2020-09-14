@@ -1,4 +1,106 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-09-11T13:30:13-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Keegan Evans</title><subtitle>This site is for documenting the many adventures and projects in my life. The main focus will be on my journey into the IT/infosec world. I also anticipate there will be pieces on programming,  electronics, bicycles, cars, camping, hiking, climbing, canyoneering, fishing, conservation,  making, building, and gardening. </subtitle><entry><title type="html">Daily Progress</title><link href="http://localhost:4000/2020/09/11/Daily-Update.html" rel="alternate" type="text/html" title="Daily Progress" /><published>2020-09-11T00:00:00-04:00</published><updated>2020-09-11T00:00:00-04:00</updated><id>http://localhost:4000/2020/09/11/Daily-Update</id><content type="html" xml:base="http://localhost:4000/2020/09/11/Daily-Update.html">&lt;ul&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-09-14T15:17:12-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Keegan Evans</title><subtitle>This site is for documenting the many adventures and projects in my life. The main focus will be on my journey into the IT/infosec world. I also anticipate there will be pieces on programming,  electronics, bicycles, cars, camping, hiking, climbing, canyoneering, fishing, conservation,  making, building, and gardening. </subtitle><entry><title type="html"></title><link href="http://localhost:4000/2020/09/14/.html" rel="alternate" type="text/html" title="" /><published>2020-09-14T00:00:00-07:00</published><updated>2020-09-14T00:00:00-07:00</updated><id>http://localhost:4000/2020/09/14/</id><content type="html" xml:base="http://localhost:4000/2020/09/14/.html">&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Articles Read:&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://fireshellsecurity.team/restricted-linux-shell-escaping-techniques/&quot;&gt;Another Restricted Shell Article&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Continued working on &lt;em&gt;Simply Scheme&lt;/em&gt; Project: Scoring Poker Hands.
+I have found this exercise very challenging. From a top down
+perspective, I have either figured out how to or actually written the code
+to implement the program. I also have been able to write the code to
+determine flushes and the various pair hands.&lt;/p&gt;
+
+    &lt;p&gt;However, I am &lt;del&gt;strugg&lt;/del&gt; working through a function to determine
+straights and to sort the cards by rank. More specifically, I think
+I understand how to implement a sort, but only if I have boolean primitive
+that I can use to determine which of two values comes first. I am sure that there is an easy
+solution that I am missing. Normally when I feel like this, I have missed
+something simple. To that end, I am re-reading the entire recursion
+section (section &lt;em&gt;IV&lt;/em&gt;). I some ideas on how to impliment this boolean
+function, but hope clarify my thinking on this into something useful while
+reviewing.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Markdown notation of the day the &lt;del&gt;strike through&lt;/del&gt;, by &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;~~strike
+through~~&lt;/code&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Second Markdown notation tip of the day: You can create multi-paragraph
+list items by including a blank line between the first and second
+paragraphs of the list item and being sure to include at least one space
+before the start of the second paragraph so that markdown will indent it
+as part of the list.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;vim&lt;/code&gt; command of the day: Jump to the end of the previous line: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;k$&lt;/code&gt;.
+Not really an independent command, or really difficult, but useful.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Began working on a script that would find and combine all of the PDF
+files on a webpage. It may develop into full blown python module at some
+point, but at this point it is going to live as a &lt;a href=&quot;https://github.com/Keegan-Evans/kevans/blob/master/confluence.py&quot;&gt;single python
+script&lt;/a&gt;
+in my personal Github repository.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Articles Read:</summary></entry><entry><title type="html">Daily Progress</title><link href="http://localhost:4000/2020/09/13/Daily-Progress.html" rel="alternate" type="text/html" title="Daily Progress" /><published>2020-09-13T00:00:00-07:00</published><updated>2020-09-13T00:00:00-07:00</updated><id>http://localhost:4000/2020/09/13/Daily-Progress</id><content type="html" xml:base="http://localhost:4000/2020/09/13/Daily-Progress.html">&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Articles Read:&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;p&gt;&lt;a href=&quot;https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/&quot;&gt;Another Linux Privesc Article&lt;/a&gt;&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;The topic of escaping restricted shells I found really
+intriguing from yesterday’s Linux PrivEsc article, and I was
+able to find this &lt;a href=&quot;https://www.sans.org/blog/escaping-restricted-linux-shells/&quot;&gt;Escaping Restricted Linux
+Shells&lt;/a&gt;
+article for today.&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Worked on the racecar cooling system again. After about 10 years of only
+running water as the coolant, there is tons of rust and scale built up
+in it. We rinsed it again and then let some CLR sit in it for about
+3 hours. It removed a ton more junk, but there still doesn’t seem to be
+much flow through the cooling system. We did finally get a temp reading on
+the coolant temp gauge inside. At this point we are going to ask on the
+E30 forums if there should be coolant coming out of the bleeder
+immeadiately or not, which might change our approach. Barring any good
+suggestions from the query, we will be replacing the thermostat,
+thermostat housing, and water pump, as well as flushing all other lines
+directly.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Articles Read:</summary></entry><entry><title type="html">Daily Progress</title><link href="http://localhost:4000/2020/09/12/Daily-Progress.html" rel="alternate" type="text/html" title="Daily Progress" /><published>2020-09-12T00:00:00-07:00</published><updated>2020-09-12T00:00:00-07:00</updated><id>http://localhost:4000/2020/09/12/Daily-Progress</id><content type="html" xml:base="http://localhost:4000/2020/09/12/Daily-Progress.html">&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;em&gt;Section 15&lt;/em&gt;&lt;/strong&gt; &lt;em&gt;Active Directory Overview&lt;/em&gt; in Heath Adam’s &lt;a href=&quot;https://www.udemy.com/course/practical-ethical-hacking/&quot;&gt;Practical Ethical Hacking&lt;/a&gt; course
+on Udemy. Also downloaded ISO files for the Active Directory lab build.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Read these articles:&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;p&gt;&lt;a href=&quot;http://www.learnlinux.org.za/courses/build/net-admin/ch08s02.html&quot;&gt;Using smbclient&lt;/a&gt;&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;&lt;a href=&quot;https://payatu.com/guide-linux-privilege-escalation&quot;&gt;A Guide to Linux Privilege Escalation&lt;/a&gt;&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Installed Cisco Packet Tracer on my Windows 10.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Watched through video 13 &lt;em&gt;Networking Devices: Repeaters, Hubs, Switches,
+and Routers&lt;/em&gt; of &lt;a href=&quot;https://www.udemy.com/course/cisco-ccent-icnd1-100-105-complete-course-sims-and-gns3/?utm_source=adwords&amp;amp;utm_medium=udemyads&amp;amp;utm_campaign=CiscoCCNA_v.PROF_la.EN_cc.US_ti.5044&amp;amp;utm_content=deal4584&amp;amp;utm_term=_._ag_82041673404_._ad_436603255105_._kw__._de_c_._dm__._pl__._ti_dsa-774930035889_._li_1013406_._pd__._&amp;amp;matchtype=b&amp;amp;gclid=Cj0KCQjwhvf6BRCkARIsAGl1GGgsblfqRYDVCwp2BT9hUIqnLz4oxM8zueIhg7qXJzgj_z9Q0RBSbGQaAuiuEALw_wcB&quot;&gt;David Bombal’s CCNA
+course&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Section 15 Active Directory Overview in Heath Adam’s Practical Ethical Hacking course on Udemy. Also downloaded ISO files for the Active Directory lab build.</summary></entry><entry><title type="html">Daily Progress</title><link href="http://localhost:4000/2020/09/11/Daily-Update.html" rel="alternate" type="text/html" title="Daily Progress" /><published>2020-09-11T00:00:00-07:00</published><updated>2020-09-11T00:00:00-07:00</updated><id>http://localhost:4000/2020/09/11/Daily-Update</id><content type="html" xml:base="http://localhost:4000/2020/09/11/Daily-Update.html">&lt;ul&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;em&gt;Generating Shellcode and Getting Root&lt;/em&gt; in Heath Adam’s &lt;a href=&quot;https://www.udemy.com/course/practical-ethical-hacking/&quot;&gt;&lt;em&gt;Practical Ethical
 Hacking&lt;/em&gt;&lt;/a&gt; course
@@ -13,7 +115,7 @@ a master function that will be able to determine the value of any given
 hand.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Reread Chapter 2 of &lt;em&gt;Simply Scheme&lt;/em&gt; for review.&lt;/p&gt;
+    &lt;p&gt;Reread Chapter 2 of &lt;strong&gt;Simply Scheme&lt;/strong&gt; for review.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;I was being driven crazy by the system beep tone whenever I accidently
@@ -44,9 +146,53 @@ ftplugin files.&lt;/p&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;https://www.freecodecamp.org/learn/&quot;&gt;freeCodeCamp’s Responsive Web Design
 Certification&lt;/a&gt; &lt;em&gt;Adjust the Margin
-of an Element&lt;/em&gt; -&amp;gt;&lt;/p&gt;
+of an Element&lt;/em&gt; → &lt;em&gt;Improve Compatibility with Browser Fallbacks&lt;/em&gt;&lt;/p&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">Generating Shellcode and Getting Root in Heath Adam’s Practical Ethical Hacking course on Udemy.</summary></entry><entry><title type="html">Daily Progress</title><link href="http://localhost:4000/2020/09/10/Daily-Update.html" rel="alternate" type="text/html" title="Daily Progress" /><published>2020-09-10T00:00:00-04:00</published><updated>2020-09-10T00:00:00-04:00</updated><id>http://localhost:4000/2020/09/10/Daily-Update</id><content type="html" xml:base="http://localhost:4000/2020/09/10/Daily-Update.html">&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Worked through HTB: Lame without metasploit as OSCP practice. I ended up
+writing my own python script for, though it looks a lot like other
+available ones, though I wrote it for python 3.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;htb-lame-notes&quot;&gt;HTB: Lame Notes&lt;/h3&gt;
+
+&lt;p&gt;A few further notes. An important part of the script is assignment of the
+shellcode with the call:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;userID = &quot;/=` nohup &quot; + buf + &quot;`&quot;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;There are two important things about this. The first does not actually
+directly relate to this call itself but rather the msfvenom payload
+referenced by &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;buf&lt;/code&gt;. You need to be sure to delete the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;b&lt;/code&gt; at the
+beginning of each line that will tell python that it is byte code. By
+removing this, python reads the line as a string and can therefore
+concatenate it with the other strings you have supplied. The second is the
+call to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;nohup&lt;/code&gt; which is a linux command for “no hookup”. As best I can
+tell, this is because we are trying to run our code between entering the
+logon userID(which is what contains our code) and the system asking for
+a password. To get the required time, we provide this command, which then
+lets our other code run in the background. I will also include a few
+resources that I read through after running through the box as much on my
+own as I could:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://linux.101hacks.com/unix/nohup-command/&quot;&gt;nohup link&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://0xdf.gitlab.io/2020/04/07/htb-lame.html&quot;&gt;Lame Walkthrough 1&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://medium.com/@nmappn/exploiting-smb-samba-without-metasploit-series-1-b34291bbfd63&quot;&gt;Lame Walkthrough
+2&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://amriunix.com/post/cve-2007-2447-samba-usermap-script/&quot;&gt;Samba Usermap Script In More
+Detail&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Generating Shellcode and Getting Root in Heath Adam’s Practical Ethical Hacking course on Udemy.</summary></entry><entry><title type="html">Daily Progress</title><link href="http://localhost:4000/2020/09/10/Daily-Update.html" rel="alternate" type="text/html" title="Daily Progress" /><published>2020-09-10T00:00:00-07:00</published><updated>2020-09-10T00:00:00-07:00</updated><id>http://localhost:4000/2020/09/10/Daily-Update</id><content type="html" xml:base="http://localhost:4000/2020/09/10/Daily-Update.html">&lt;ul&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;em&gt;Finding the Right Module&lt;/em&gt; in Heath Adam’s &lt;a href=&quot;https://www.udemy.com/course/practical-ethical-hacking/&quot;&gt;&lt;em&gt;Practical Ethical
 Hacking&lt;/em&gt;&lt;/a&gt; course
@@ -90,7 +236,7 @@ behave mswin
 
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;and then save via the usual route.&lt;/p&gt;</content><author><name></name></author><summary type="html">Finding the Right Module in Heath Adam’s Practical Ethical Hacking course on Udemy.</summary></entry><entry><title type="html">Enjoying the Beginning of Autumn</title><link href="http://localhost:4000/2020/09/09/Not-So-Update.html" rel="alternate" type="text/html" title="Enjoying the Beginning of Autumn" /><published>2020-09-09T00:00:00-04:00</published><updated>2020-09-09T00:00:00-04:00</updated><id>http://localhost:4000/2020/09/09/Not-So-Update</id><content type="html" xml:base="http://localhost:4000/2020/09/09/Not-So-Update.html">&lt;p&gt;Not much actual learning got done today, but it was fun:&lt;/p&gt;
+&lt;p&gt;and then save via the usual route.&lt;/p&gt;</content><author><name></name></author><summary type="html">Finding the Right Module in Heath Adam’s Practical Ethical Hacking course on Udemy.</summary></entry><entry><title type="html">Enjoying the Beginning of Autumn</title><link href="http://localhost:4000/2020/09/09/Not-So-Update.html" rel="alternate" type="text/html" title="Enjoying the Beginning of Autumn" /><published>2020-09-09T00:00:00-07:00</published><updated>2020-09-09T00:00:00-07:00</updated><id>http://localhost:4000/2020/09/09/Not-So-Update</id><content type="html" xml:base="http://localhost:4000/2020/09/09/Not-So-Update.html">&lt;p&gt;Not much actual learning got done today, but it was fun:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
@@ -116,7 +262,7 @@ one of our favorite things!&lt;/p&gt;
     &lt;p&gt;Had Buffalo Chicken and Instant Pot Mac and Cheese while watching &lt;em&gt;Star
 Wars: A New Hope&lt;/em&gt; with one of our friends.&lt;/p&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">Not much actual learning got done today, but it was fun:</summary></entry><entry><title type="html">Daily Progress</title><link href="http://localhost:4000/2020/09/08/Daily-Progress.html" rel="alternate" type="text/html" title="Daily Progress" /><published>2020-09-08T00:00:00-04:00</published><updated>2020-09-08T00:00:00-04:00</updated><id>http://localhost:4000/2020/09/08/Daily-Progress</id><content type="html" xml:base="http://localhost:4000/2020/09/08/Daily-Progress.html">&lt;h1 id=&quot;september-8-2020&quot;&gt;September 8, 2020&lt;/h1&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Not much actual learning got done today, but it was fun:</summary></entry><entry><title type="html">Daily Progress</title><link href="http://localhost:4000/2020/09/08/Daily-Progress.html" rel="alternate" type="text/html" title="Daily Progress" /><published>2020-09-08T00:00:00-07:00</published><updated>2020-09-08T00:00:00-07:00</updated><id>http://localhost:4000/2020/09/08/Daily-Progress</id><content type="html" xml:base="http://localhost:4000/2020/09/08/Daily-Progress.html">&lt;h1 id=&quot;september-8-2020&quot;&gt;September 8, 2020&lt;/h1&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
@@ -136,7 +282,7 @@ as it is a known bad character and will mess up the rest of your results
 if left in. I was pulling my hair out trying to figure this out.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">September 8, 2020</summary></entry><entry><title type="html">Daily Progress</title><link href="http://localhost:4000/2020/09/07/Daily-Progress.html" rel="alternate" type="text/html" title="Daily Progress" /><published>2020-09-07T00:00:00-04:00</published><updated>2020-09-07T00:00:00-04:00</updated><id>http://localhost:4000/2020/09/07/Daily-Progress</id><content type="html" xml:base="http://localhost:4000/2020/09/07/Daily-Progress.html">&lt;h1 id=&quot;september-7-2020&quot;&gt;September 7, 2020&lt;/h1&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">September 8, 2020</summary></entry><entry><title type="html">Daily Progress</title><link href="http://localhost:4000/2020/09/07/Daily-Progress.html" rel="alternate" type="text/html" title="Daily Progress" /><published>2020-09-07T00:00:00-07:00</published><updated>2020-09-07T00:00:00-07:00</updated><id>http://localhost:4000/2020/09/07/Daily-Progress</id><content type="html" xml:base="http://localhost:4000/2020/09/07/Daily-Progress.html">&lt;h1 id=&quot;september-7-2020&quot;&gt;September 7, 2020&lt;/h1&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
@@ -161,7 +307,7 @@ Basic CSS&lt;/em&gt; -&amp;gt; &lt;em&gt;Adjust the Padding of an Element&lt;/em
     &lt;p&gt;&lt;em&gt;2.5.2 Overview of How DNS Works&lt;/em&gt; of &lt;a href=&quot;https://amzn.to/3m1poEI&quot;&gt;Networking: A Top Down Approach (Affiliate
 Link)&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">September 7, 2020</summary></entry><entry><title type="html">Daily Progress</title><link href="http://localhost:4000/2020/09/06/Daily-Progress.html" rel="alternate" type="text/html" title="Daily Progress" /><published>2020-09-06T00:00:00-04:00</published><updated>2020-09-06T00:00:00-04:00</updated><id>http://localhost:4000/2020/09/06/Daily-Progress</id><content type="html" xml:base="http://localhost:4000/2020/09/06/Daily-Progress.html">&lt;h1 id=&quot;september-6-2020&quot;&gt;September 6, 2020&lt;/h1&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">September 7, 2020</summary></entry><entry><title type="html">Daily Progress</title><link href="http://localhost:4000/2020/09/06/Daily-Progress.html" rel="alternate" type="text/html" title="Daily Progress" /><published>2020-09-06T00:00:00-07:00</published><updated>2020-09-06T00:00:00-07:00</updated><id>http://localhost:4000/2020/09/06/Daily-Progress</id><content type="html" xml:base="http://localhost:4000/2020/09/06/Daily-Progress.html">&lt;h1 id=&quot;september-6-2020&quot;&gt;September 6, 2020&lt;/h1&gt;
 
 &lt;p&gt;Not much on today, most of the limited time I got to work on anything on the computer was spent trying to figure out how to setup a website with Github pages, as I had essentially quite writing on my wordpress page because their “fancy” layout drove me crazy and I much prefer being able to write using vim and markdown, especially if it is combined with git/github. Apparently sometime in the past I created a repository for this but never set anything up on it. Well this evening I gave it a go, though that essentially consisted of writing a short intro and trying to figure out how to view it after deleting the default index page. Apparently I need to learn anything about how a website is actually setup, so I found the articles below that I plan to read when I get done with this. I want to have a site that is somewhat of a blog/homepage hybrid, hence the article choice. With that being said the day consisted of:&lt;/p&gt;
 
