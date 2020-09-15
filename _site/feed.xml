@@ -1,10 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-09-14T15:20:44-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Keegan Evans</title><subtitle>This site is for documenting the many adventures and projects in my life. The main focus will be on my journey into the IT/infosec world. I also anticipate there will be pieces on programming,  electronics, bicycles, cars, camping, hiking, climbing, canyoneering, fishing, conservation,  making, building, and gardening. </subtitle><entry><title type="html"></title><link href="http://localhost:4000/2020/09/14/.html" rel="alternate" type="text/html" title="" /><published>2020-09-14T00:00:00-07:00</published><updated>2020-09-14T00:00:00-07:00</updated><id>http://localhost:4000/2020/09/14/</id><content type="html" xml:base="http://localhost:4000/2020/09/14/.html">&lt;ul&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-09-14T20:12:40-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Keegan Evans</title><subtitle>This site is for documenting the many adventures and projects in my life. The main focus will be on my journey into the IT/infosec world. I also anticipate there will be pieces on programming,  electronics, bicycles, cars, camping, hiking, climbing, canyoneering, fishing, conservation,  making, building, and gardening. </subtitle><entry><title type="html">Daily Progress</title><link href="http://localhost:4000/2020/09/14/Daily-Progress.html" rel="alternate" type="text/html" title="Daily Progress" /><published>2020-09-14T00:00:00-07:00</published><updated>2020-09-14T00:00:00-07:00</updated><id>http://localhost:4000/2020/09/14/Daily-Progress</id><content type="html" xml:base="http://localhost:4000/2020/09/14/Daily-Progress.html">&lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;Articles Read:&lt;/p&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://fireshellsecurity.team/restricted-linux-shell-escaping-techniques/&quot;&gt;Another Restricted Shell Article&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
+    &lt;p&gt;&lt;a href=&quot;https://fireshellsecurity.team/restricted-linux-shell-escaping-techniques/&quot;&gt;Another Restricted Shell Article&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Continued working on &lt;em&gt;Simply Scheme&lt;/em&gt; Project: Scoring Poker Hands.
@@ -16,12 +12,12 @@ determine flushes and the various pair hands.&lt;/p&gt;
     &lt;p&gt;However, I am &lt;del&gt;strugg&lt;/del&gt; working through a function to determine
 straights and to sort the cards by rank. More specifically, I think
 I understand how to implement a sort, but only if I have boolean primitive
-that I can use to determine which of two values comes first. I am sure that there is an easy
-solution that I am missing. Normally when I feel like this, I have missed
-something simple. To that end, I am re-reading the entire recursion
-section (section &lt;em&gt;IV&lt;/em&gt;). I some ideas on how to impliment this boolean
-function, but hope clarify my thinking on this into something useful while
-reviewing.&lt;/p&gt;
+that I can use to determine which of two values comes first. I am sure
+that there is an easy solution that I am missing. Normally when I feel
+like this, I have missed something simple. To that end, I am re-reading
+the entire recursion section (section &lt;em&gt;IV&lt;/em&gt;). I some ideas on how to
+implement this boolean function, but hope clarify my thinking on this into
+something useful while reviewing.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Markdown notation of the day the &lt;del&gt;strike through&lt;/del&gt;, by &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;~~strike
@@ -45,7 +41,13 @@ point, but at this point it is going to live as a &lt;a href=&quot;https://githu
 script&lt;/a&gt;
 in my personal Github repository.&lt;/p&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">Articles Read:</summary></entry><entry><title type="html">Daily Progress</title><link href="http://localhost:4000/2020/09/13/Daily-Progress.html" rel="alternate" type="text/html" title="Daily Progress" /><published>2020-09-13T00:00:00-07:00</published><updated>2020-09-13T00:00:00-07:00</updated><id>http://localhost:4000/2020/09/13/Daily-Progress</id><content type="html" xml:base="http://localhost:4000/2020/09/13/Daily-Progress.html">&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Read through a lot of the Jekyll websites documentation. I have both
+some formating, functional, and stylistic changes that I want to make to
+my website that I hope to be able to implement after reading the docs and
+probably learning a bit more about CSS and HTML.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Another Restricted Shell Article</summary></entry><entry><title type="html">Daily Progress</title><link href="http://localhost:4000/2020/09/13/Daily-Progress.html" rel="alternate" type="text/html" title="Daily Progress" /><published>2020-09-13T00:00:00-07:00</published><updated>2020-09-13T00:00:00-07:00</updated><id>http://localhost:4000/2020/09/13/Daily-Progress</id><content type="html" xml:base="http://localhost:4000/2020/09/13/Daily-Progress.html">&lt;ul&gt;
   &lt;li&gt;
     &lt;p&gt;Articles Read:&lt;/p&gt;
 

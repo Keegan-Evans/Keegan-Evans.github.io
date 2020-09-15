@@ -5,9 +5,7 @@ catergories: [infosec, it, learning, linux, "restricted shell", "simply
 scheme", vim]
 ---
 
-- Articles Read:
-
-	- [Another Restricted Shell Article](https://fireshellsecurity.team/restricted-linux-shell-escaping-techniques/)
+- [Another Restricted Shell Article](https://fireshellsecurity.team/restricted-linux-shell-escaping-techniques/)
 
 
 - Continued working on *Simply Scheme* Project: Scoring Poker Hands.
@@ -19,12 +17,12 @@ determine flushes and the various pair hands.
 	However, I am ~~strugg~~ working through a function to determine
 straights and to sort the cards by rank. More specifically, I think
 I understand how to implement a sort, but only if I have boolean primitive
-that I can use to determine which of two values comes first. I am sure that there is an easy
-solution that I am missing. Normally when I feel like this, I have missed
-something simple. To that end, I am re-reading the entire recursion
-section (section *IV*). I some ideas on how to impliment this boolean
-function, but hope clarify my thinking on this into something useful while
-reviewing. 
+that I can use to determine which of two values comes first. I am sure
+that there is an easy solution that I am missing. Normally when I feel
+like this, I have missed something simple. To that end, I am re-reading
+the entire recursion section (section *IV*). I some ideas on how to
+implement this boolean function, but hope clarify my thinking on this into
+something useful while reviewing. 
 
 - Markdown notation of the day the ~~strike through~~, by `~~strike
   through~~`.
@@ -43,3 +41,8 @@ as part of the list.
 point, but at this point it is going to live as a [single python
 script](https://github.com/Keegan-Evans/kevans/blob/master/confluence.py)
 in my personal Github repository.
+
+- Read through a lot of the Jekyll websites documentation. I have both
+  some formating, functional, and stylistic changes that I want to make to
+my website that I hope to be able to implement after reading the docs and
+probably learning a bit more about CSS and HTML.
