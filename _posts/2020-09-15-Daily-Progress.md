@@ -9,5 +9,4 @@ layout: post
   a "sandbox" site to play around with and begin developing my own theme.
 While this is not my intended career direction, it has been really fun to
 do. I also really feel like I will be able to get my site to look the way
-I want, which was never the way I felt about any of the prebuilt website
-creators.
+I want, which was never the way I felt about any of the other
