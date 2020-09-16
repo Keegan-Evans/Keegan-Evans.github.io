@@ -40,7 +40,9 @@ as part of the list.
   files on a webpage. It may develop into full blown python module at some
 point, but at this point it is going to live as a [single python
 script](https://github.com/Keegan-Evans/kevans/blob/master/confluence.py)
-in my personal Github repository.
+in my personal Github repository. As ancillary parts of this/general
+coding knowledge, I will need to install and begin learning
+`BeautifulSoup` and `Requests`. At least.
 
 - Read through a lot of the Jekyll websites documentation. I have both
   some formating, functional, and stylistic changes that I want to make to
