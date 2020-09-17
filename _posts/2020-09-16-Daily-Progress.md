@@ -3,8 +3,9 @@ layout: post
 catergories: [infosec, it, learning, career, ccna]
 ---
 
-- from [David Bombal's CCNA
-  course](https://www.udemy.com/course/complete-networking-fundamentals-course-ccna-start/)
+- *Networking Devices: Firewalls, IDS, IPS, and WLC* and *OSI and TCP/IP
+  Models* from [David Bombal's CCNA
+course](https://www.udemy.com/course/complete-networking-fundamentals-course-ccna-start/)
 
 - [The Problem with Cybersecurity
   Hiring](https://danielmiessler.com/blog/the-problem-with-cybersecurity-hiring/)
@@ -28,3 +29,7 @@ the screen down, despite being all of the about 8 seconds. The dry air
 here in Flagstaff can make this challenging. It took around 4 tries to get
 it all off, which is risky, as you risk removing the sticky from the
 protector or cracking it, but can be done very carefully.
+
+- Read the chapter on formatting in [Jon Duckett's HTML and
+  CSS](https://amzn.to/3c6KP2C) (affiliate) in preparation for working on
+a body template for my website tomorrow.
