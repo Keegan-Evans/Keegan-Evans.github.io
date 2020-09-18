@@ -3,6 +3,7 @@ layout: post
 title: Getting Responder Installed
 catergories: [infosec, oscp, responder, "practical ethical hacking",
 troubleshooting]
+published: false
 ---
 
 In going through [Heath Adam's Practical Ethical
