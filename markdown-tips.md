@@ -33,3 +33,55 @@ Unicode character` to get the correct code.
 
 
 produces a right facing arrow or &#10230; 
+
+## Creating Multiparagraph List Items
+
+You can create multi-paragraph list items by including a blank line between the first and second paragraphs of the list item and being sure to include at least one space before the start of the second paragraph so that markdown will indent it as part of the list.
+
+```
+
+- First List Item
+
+- First paragraph of the second list item. You might put anything in here,
+  it really depends on what you want to write. When you are ready for the
+second paragraph of the item just include a blank space and then at leas
+one paragraph at the beginning of the next paragraph.
+
+ This is the first sentence of the second paragraph of the second list
+item. You can add even more.
+
+ This is the third paragraph of the second list item.
+
+- This is the Third List Item.
+
+```
+
+Produces:
+
+- First List Item
+
+- First paragraph of the second list item. You might put anything in here,
+  it really depends on what you want to write. When you are ready for the
+second paragraph of the item just include a blank space and then at leas
+one paragraph at the beginning of the next paragraph.
+
+ This is the first sentence of the second paragraph of the second list
+item. You can add even more.
+
+ This is the third paragraph of the second list item.
+
+- This is the Third List Item.
+- First List Item
+
+- First paragraph of the second list item. You might put anything in here,
+  it really depends on what you want to write. When you are ready for the
+second paragraph of the item just include a blank space and then at leas
+one paragraph at the beginning of the next paragraph.
+
+ This is the first sentence of the second paragraph of the second list
+item. You can add even more.
+
+ This is the third paragraph of the second list item.
+
+- This is the Third List Item.
+
