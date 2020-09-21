@@ -44,13 +44,13 @@ You can create multi-paragraph list items by including a blank line between the 
 
 - First paragraph of the second list item. You might put anything in here,
   it really depends on what you want to write. When you are ready for the
-second paragraph of the item just include a blank space and then at leas
-one paragraph at the beginning of the next paragraph.
+second paragraph of the item just include a blank line and then at least
+one blank space at the beginning of the next paragraph.
 
- This is the first sentence of the second paragraph of the second list
+   This is the first sentence of the second paragraph of the second list
 item. You can add even more.
 
- This is the third paragraph of the second list item.
+   This is the third paragraph of the second list item.
 
 - This is the Third List Item.
 
@@ -65,23 +65,10 @@ Produces:
 second paragraph of the item just include a blank space and then at leas
 one paragraph at the beginning of the next paragraph.
 
- This is the first sentence of the second paragraph of the second list
+   This is the first sentence of the second paragraph of the second list
 item. You can add even more.
 
- This is the third paragraph of the second list item.
-
-- This is the Third List Item.
-- First List Item
-
-- First paragraph of the second list item. You might put anything in here,
-  it really depends on what you want to write. When you are ready for the
-second paragraph of the item just include a blank space and then at leas
-one paragraph at the beginning of the next paragraph.
-
- This is the first sentence of the second paragraph of the second list
-item. You can add even more.
-
- This is the third paragraph of the second list item.
+   This is the third paragraph of the second list item.
 
 - This is the Third List Item.
 
