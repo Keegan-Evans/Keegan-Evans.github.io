@@ -14,5 +14,5 @@ course.
 - Installed 'ipython' in my base install of python so that I can use it in
   the terminal inside of vscode. You just open your Powershell Terminal
 inside of VScode and enter `python -m IPython` to run it.
+ 
 
--
