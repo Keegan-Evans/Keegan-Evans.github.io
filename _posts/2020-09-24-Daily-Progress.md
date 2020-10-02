@@ -1,6 +1,6 @@
 ---
 layout: post
-date 2020-09-23
+date 2020-09-24
 catergories: [python, oscp, "hack the box", requests, "beautiful soup"]
 ---
 
