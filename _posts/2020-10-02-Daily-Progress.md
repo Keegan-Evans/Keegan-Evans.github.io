@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2020-10-01
+date: 2020-10-02
 catergories: ["simply scheme", coding, scheme, ccna, certs]
 ---
 
