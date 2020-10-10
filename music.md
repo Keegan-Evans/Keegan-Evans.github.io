@@ -19,9 +19,7 @@ genre.
 
 	- [Daydreamer](https://youtu.be/1MlFDDqYYZI)
 
-- ***Bill Mallonee***: A prolific and wildly talented artist who is
-  wildly appreciated by his fans but largely unknown. A remarkable
-songwriter whose work stretches from Brit-Pop to Americana.
+- ***Bill Mallonee***: A prolific and wildly talented artist who is  appreciated by his fans but largely unknown. A remarkable songwriter whose work stretches from Brit-Pop to Americana.
 
 	- [Blister Soul](https://billmalloneemusic.bandcamp.com/track/blister-soul-5)
 
@@ -36,3 +34,8 @@ songwriter whose work stretches from Brit-Pop to Americana.
 - [Mental Minority: Dystopia Now](https://youtu.be/nYLiBEgLOYE)
 
 - [Cyber Dream: Chillwave-Synthwave Mix](https://youtu.be/yhCuCqJbOVE)
+
+- I am generally quite ignorant in regards to Classical Music, however,
+  here is a good recording of one of my favorite symphonies: [Mozart
+  Symphony 40, Scottish Chamber
+  Orchestra](https://www.youtube.com/playlist?list=PLoM0wpWz7wVSSVzQd27C6Ac_DOsRirqnA)
