@@ -11,6 +11,8 @@ cheaply elsewhere, though probably most conviniently through the links.
 
 ## In Progress
 
+- Alastair Reynold's [Revelation Space](https://amzn.to/3nDM2E4)
+  
 - [Automotive Technology: A Systems Approach](https://amzn.to/3lBj7Pk)
 
 - [The Explosive Child](https://amzn.to/2RPWSIj)
