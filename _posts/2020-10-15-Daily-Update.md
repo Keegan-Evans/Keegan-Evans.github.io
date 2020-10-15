@@ -1,0 +1,1 @@
+- **Section 19: Duplex and Speed Mismatch Demo** from [David Bombal's CCNA Course](https://www.udemy.com/course/complete-networking-fundamentals-course-ccna-start).
