@@ -13,7 +13,7 @@
 <meta property="og:url" content="http://localhost:4000/markdown-tips.html" />
 <meta property="og:site_name" content="Keegan Evans" />
 <script type="application/ld+json">
-{"@type":"WebPage","headline":"Markdown Tips","url":"http://localhost:4000/markdown-tips.html","description":"This site is for documenting the many adventures and projects in my life. The main focus will be on my journey into the IT/infosec world. I also anticipate there will be pieces on programming, electronics, bicycles, cars, camping, hiking, climbing, canyoneering, fishing, conservation, making, building, and gardening.","@context":"https://schema.org"}</script>
+{"@type":"WebPage","url":"http://localhost:4000/markdown-tips.html","headline":"Markdown Tips","description":"This site is for documenting the many adventures and projects in my life. The main focus will be on my journey into the IT/infosec world. I also anticipate there will be pieces on programming, electronics, bicycles, cars, camping, hiking, climbing, canyoneering, fishing, conservation, making, building, and gardening.","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Keegan Evans" /></head>
 <body><header class="site-header" role="banner">
@@ -28,7 +28,7 @@
           </span>
         </label>
 
-        <div class="trigger"><a class="page-link" href="/configuration-settings.html">My Linux Configuration Tweaks</a><a class="page-link" href="/markdown-tips.html">Markdown Tips</a></div>
+        <div class="trigger"><a class="page-link" href="/configuration-settings.html">My Linux Configuration Tweaks</a><a class="page-link" href="/markdown-tips.html">Markdown Tips</a><a class="page-link" href="/music.html">Favorite Music</a><a class="page-link" href="/reading.html">Reading List</a></div>
       </nav></div>
 </header>
 <main class="page-content" aria-label="Content">
@@ -64,6 +64,50 @@ Unicode character</code> to get the correct code.</p>
 </code></pre></div></div>
 
 <p>produces a right facing arrow or ⟶</p>
+
+<h2 id="creating-multiparagraph-list-items">Creating Multiparagraph List Items</h2>
+
+<p>You can create multi-paragraph list items by including a blank line between the first and second paragraphs of the list item and being sure to include at least one space before the start of the second paragraph so that markdown will indent it as part of the list.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+- First List Item
+
+- First paragraph of the second list item. You might put anything in here,
+  it really depends on what you want to write. When you are ready for the
+second paragraph of the item just include a blank line and then at least
+one blank space at the beginning of the next paragraph.
+
+   This is the first sentence of the second paragraph of the second list
+item. You can add even more.
+
+   This is the third paragraph of the second list item.
+
+- This is the Third List Item.
+
+</code></pre></div></div>
+
+<p>Produces:</p>
+
+<ul>
+  <li>
+    <p>First List Item</p>
+  </li>
+  <li>
+    <p>First paragraph of the second list item. You might put anything in here,
+it really depends on what you want to write. When you are ready for the
+second paragraph of the item just include a blank space and then at leas
+one paragraph at the beginning of the next paragraph.</p>
+
+    <p>This is the first sentence of the second paragraph of the second list
+item. You can add even more.</p>
+
+    <p>This is the third paragraph of the second list item.</p>
+  </li>
+  <li>
+    <p>This is the Third List Item.</p>
+  </li>
+</ul>
+
 
   </div>
 

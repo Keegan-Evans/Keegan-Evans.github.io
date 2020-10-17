@@ -4,8 +4,7 @@ date: 2020-10-16
 catergories: [ccna, "simply scheme", coding, website]
 ---
 
-- **Section 19: Duplex and Speed Mismatch Demo** from [David Bombal's
-CCNA
+- **Section 19: Duplex and Speed Mismatch Demo** from [David Bombal's CCNA
   Course](https://www.udemy.com/course/complete-networking-fundamentals-course-ccna-start).
 
 - *Simply Scheme*, pp267-275, including copying out and carefully
@@ -14,6 +13,8 @@ CCNA
   tomorrow!
 
 - Went over how to format websites using Jekyll, first practicing on my
-  local "sandbox" website. Well, very first I actually installed Jekyll
-  on my Windows machine. I am still really liking the VSCode/VIM combo.
-
+  local "sandbox" website. Actually, very first, I installed Ruby and
+  Jekyll on my Windows machine. I am still really liking the VSCode/VIM
+  combo. I have also started on an article about organizing your Jekyll
+  pages. All of the information is in the documentation, but I think at
+  least for myself it will be handy for the future.

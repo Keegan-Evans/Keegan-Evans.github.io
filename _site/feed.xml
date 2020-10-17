@@ -1,334 +1,145 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-09-14T20:31:15-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Keegan Evans</title><subtitle>This site is for documenting the many adventures and projects in my life. The main focus will be on my journey into the IT/infosec world. I also anticipate there will be pieces on programming,  electronics, bicycles, cars, camping, hiking, climbing, canyoneering, fishing, conservation,  making, building, and gardening. </subtitle><entry><title type="html">Daily Progress</title><link href="http://localhost:4000/2020/09/14/Daily-Progress.html" rel="alternate" type="text/html" title="Daily Progress" /><published>2020-09-14T00:00:00-07:00</published><updated>2020-09-14T00:00:00-07:00</updated><id>http://localhost:4000/2020/09/14/Daily-Progress</id><content type="html" xml:base="http://localhost:4000/2020/09/14/Daily-Progress.html">&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://fireshellsecurity.team/restricted-linux-shell-escaping-techniques/&quot;&gt;Another Restricted Shell Article&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Continued working on &lt;em&gt;Simply Scheme&lt;/em&gt; Project: Scoring Poker Hands.
-I have found this exercise very challenging. From a top down
-perspective, I have either figured out how to or actually written the code
-to implement the program. I also have been able to write the code to
-determine flushes and the various pair hands.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-10-16T21:22:38-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Keegan Evans</title><subtitle>This site is for documenting the many adventures and projects in my life. The main focus will be on my journey into the IT/infosec world. I also anticipate there will be pieces on programming,  electronics, bicycles, cars, camping, hiking, climbing, canyoneering, fishing, conservation,  making, building, and gardening. </subtitle><entry><title type="html"></title><link href="http://localhost:4000/2020/10/16/2020-10-09-Update.html" rel="alternate" type="text/html" title="" /><published>2020-10-16T21:22:38-07:00</published><updated>2020-10-16T21:22:38-07:00</updated><id>http://localhost:4000/2020/10/16/2020-10-09-Update</id><content type="html" xml:base="http://localhost:4000/2020/10/16/2020-10-09-Update.html">&lt;p&gt;There was a bit of a break there as I was preparing for/on vacation with
+the family. I spent three days before leaving working on our van/ putting
+in a new bed in the back of it.&lt;/p&gt;
 
-    &lt;p&gt;However, I am &lt;del&gt;strugg&lt;/del&gt; working through a function to determine
-straights and to sort the cards by rank. More specifically, I think
-I understand how to implement a sort, but only if I have boolean primitive
-that I can use to determine which of two values comes first. I am sure
-that there is an easy solution that I am missing. Normally when I feel
-like this, I have missed something simple. To that end, I am re-reading
-the entire recursion section (section &lt;em&gt;IV&lt;/em&gt;). I some ideas on how to
-implement this boolean function, but hope clarify my thinking on this into
-something useful while reviewing.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Markdown notation of the day the &lt;del&gt;strike through&lt;/del&gt;, by &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;~~strike
-through~~&lt;/code&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Second Markdown notation tip of the day: You can create multi-paragraph
-list items by including a blank line between the first and second
-paragraphs of the list item and being sure to include at least one space
-before the start of the second paragraph so that markdown will indent it
-as part of the list.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;vim&lt;/code&gt; command of the day: Jump to the end of the previous line: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;k$&lt;/code&gt;.
-Not really an independent command, or really difficult, but useful.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Began working on a script that would find and combine all of the PDF
-files on a webpage. It may develop into full blown python module at some
-point, but at this point it is going to live as a &lt;a href=&quot;https://github.com/Keegan-Evans/kevans/blob/master/confluence.py&quot;&gt;single python
-script&lt;/a&gt;
-in my personal Github repository. As ancillary parts of this/general
-coding knowledge, I installed and read the quick start guides for
-&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;BeautifulSoup&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Requests&lt;/code&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Read through a lot of the Jekyll websites documentation. I have both
-some formating, functional, and stylistic changes that I want to make to
-my website that I hope to be able to implement after reading the docs and
-probably learning a bit more about CSS and HTML.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">Another Restricted Shell Article</summary></entry><entry><title type="html">Daily Progress</title><link href="http://localhost:4000/2020/09/13/Daily-Progress.html" rel="alternate" type="text/html" title="Daily Progress" /><published>2020-09-13T00:00:00-07:00</published><updated>2020-09-13T00:00:00-07:00</updated><id>http://localhost:4000/2020/09/13/Daily-Progress</id><content type="html" xml:base="http://localhost:4000/2020/09/13/Daily-Progress.html">&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Articles Read:&lt;/p&gt;
+&lt;p&gt;We spent the time camping at San Mateo Campground at San Onofre State
+Beach. For day trips we snorkeled and paddleboarded at La Jolla and then
+spent several days just playing on the beach, fish, boogie boarding, and
+surfing at San Clemente and Doheny.&lt;/p&gt;
 
-    &lt;ul&gt;
-      &lt;li&gt;
-        &lt;p&gt;&lt;a href=&quot;https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/&quot;&gt;Another Linux Privesc Article&lt;/a&gt;&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;The topic of escaping restricted shells I found really
-intriguing from yesterday’s Linux PrivEsc article, and I was
-able to find this &lt;a href=&quot;https://www.sans.org/blog/escaping-restricted-linux-shells/&quot;&gt;Escaping Restricted Linux
-Shells&lt;/a&gt;
-article for today.&lt;/p&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Section 14&lt;/strong&gt;: &lt;em&gt;Subnetting Vlogs&lt;/em&gt; and &lt;strong&gt;Section 15: Cabling and
+Packet Flows&lt;/strong&gt; &lt;em&gt;How does data flow?&lt;/em&gt;, &lt;em&gt;Ethernet History&lt;/em&gt;, &lt;em&gt;10base2,
+MAC addresses&lt;/em&gt;, and &lt;em&gt;MAC Addresses CSMA/CD and Collisions&lt;/em&gt; from &lt;a href=&quot;https://www.udemy.com/course/complete-networking-fundamentals-course-ccna-start&quot;&gt;David Bombal’s CCNA
+Course&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Worked on the racecar cooling system again. After about 10 years of only
-running water as the coolant, there is tons of rust and scale built up
-in it. We rinsed it again and then let some CLR sit in it for about
-3 hours. It removed a ton more junk, but there still doesn’t seem to be
-much flow through the cooling system. We did finally get a temp reading on
-the coolant temp gauge inside. At this point we are going to ask on the
-E30 forums if there should be coolant coming out of the bleeder
-immeadiately or not, which might change our approach. Barring any good
-suggestions from the query, we will be replacing the thermostat,
-thermostat housing, and water pump, as well as flushing all other lines
-directly.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">Articles Read:</summary></entry><entry><title type="html">Daily Progress</title><link href="http://localhost:4000/2020/09/12/Daily-Progress.html" rel="alternate" type="text/html" title="Daily Progress" /><published>2020-09-12T00:00:00-07:00</published><updated>2020-09-12T00:00:00-07:00</updated><id>http://localhost:4000/2020/09/12/Daily-Progress</id><content type="html" xml:base="http://localhost:4000/2020/09/12/Daily-Progress.html">&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;&lt;em&gt;Section 15&lt;/em&gt;&lt;/strong&gt; &lt;em&gt;Active Directory Overview&lt;/em&gt; in Heath Adam’s &lt;a href=&quot;https://www.udemy.com/course/practical-ethical-hacking/&quot;&gt;Practical Ethical Hacking&lt;/a&gt; course
-on Udemy. Also downloaded ISO files for the Active Directory lab build.&lt;/p&gt;
+    &lt;p&gt;Worked problems from &lt;em&gt;Chapter 16&lt;/em&gt; of &lt;em&gt;Simply Scheme&lt;/em&gt; up to 16.5.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Read these articles:&lt;/p&gt;
+    &lt;p&gt;Read Chapter 3 from &lt;a href=&quot;https://amzn.to/3lBj7Pk&quot;&gt;Automotive Technology: A Systems Approach&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Finished &lt;a href=&quot;https://amzn.to/33MvP7s&quot;&gt;Christopher Hitchen’s *God is Not Great&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author></entry><entry><title type="html"></title><link href="http://localhost:4000/2020/10/16/2020-10-10-Daily-Update.html" rel="alternate" type="text/html" title="" /><published>2020-10-16T21:22:38-07:00</published><updated>2020-10-16T21:22:38-07:00</updated><id>http://localhost:4000/2020/10/16/2020-10-10-Daily%20Update</id><content type="html" xml:base="http://localhost:4000/2020/10/16/2020-10-10-Daily-Update.html">&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Finished through video 81 of &lt;strong&gt;Section 15: Cabling and Packet Flows&lt;/strong&gt; from
+&lt;a href=&quot;https://www.udemy.com/course/complete-networking-fundamentals-course-ccna-start&quot;&gt;David Bombal’s CCNA Course&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Worked through part of the implementation &lt;em&gt;Chapter 16&lt;/em&gt; of &lt;em&gt;Simply Scheme&lt;/em&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Read half of Chapter 4 from &lt;a href=&quot;https://amzn.to/3lBj7Pk&quot;&gt;Automotive Technology: A Systems Approach&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author></entry><entry><title type="html">Daily Update</title><link href="http://localhost:4000/2020/10/16/Daily-Update.html" rel="alternate" type="text/html" title="Daily Update" /><published>2020-10-16T00:00:00-07:00</published><updated>2020-10-16T00:00:00-07:00</updated><id>http://localhost:4000/2020/10/16/Daily-Update</id><content type="html" xml:base="http://localhost:4000/2020/10/16/Daily-Update.html">&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Section 19: Duplex and Speed Mismatch Demo&lt;/strong&gt; from &lt;a href=&quot;https://www.udemy.com/course/complete-networking-fundamentals-course-ccna-start&quot;&gt;David Bombal’s
+CCNA
+Course&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;em&gt;Simply Scheme&lt;/em&gt;, pp267-275, including copying out and carefully
+working through the chapter 16 program in my mind. I feel like I am
+finally getting my head around this chapter. Bring on the exercises
+tomorrow!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Went over how to format websites using Jekyll, first practicing on my
+local “sandbox” website. Actually, very first, I installed Ruby and
+Jekyll on my Windows machine. I am still really liking the VSCode/VIM combo.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Section 19: Duplex and Speed Mismatch Demo from David Bombal’s CCNA Course.</summary></entry><entry><title type="html">Daily Update</title><link href="http://localhost:4000/2020/10/15/Daily-Update.html" rel="alternate" type="text/html" title="Daily Update" /><published>2020-10-15T00:00:00-07:00</published><updated>2020-10-15T00:00:00-07:00</updated><id>http://localhost:4000/2020/10/15/Daily-Update</id><content type="html" xml:base="http://localhost:4000/2020/10/15/Daily-Update.html">&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Started &lt;strong&gt;Section 19: Duplex and Speed Mismatch Demo&lt;/strong&gt; from &lt;a href=&quot;https://www.udemy.com/course/complete-networking-fundamentals-course-ccna-start&quot;&gt;David
+Bombal’s CCNA
+Course&lt;/a&gt;.
+For some reason I could not concentrate on this at all. I went through
+the first 4 videos of this section but I think I will be going over
+them again tomorrow.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;pgs 261-267 (up to the &lt;strong&gt;Abstract Data Types&lt;/strong&gt; section) of &lt;em&gt;Simply Scheme&lt;/em&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Started Section 19: Duplex and Speed Mismatch Demo from David Bombal’s CCNA Course. For some reason I could not concentrate on this at all. I went through the first 4 videos of this section but I think I will be going over them again tomorrow.</summary></entry><entry><title type="html">Daily Progress</title><link href="http://localhost:4000/2020/10/14/Daily-Progress.html" rel="alternate" type="text/html" title="Daily Progress" /><published>2020-10-14T00:00:00-07:00</published><updated>2020-10-14T00:00:00-07:00</updated><id>http://localhost:4000/2020/10/14/Daily-Progress</id><content type="html" xml:base="http://localhost:4000/2020/10/14/Daily-Progress.html">&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Finished &lt;strong&gt;Section 18: Broadcast and Collision Domains&lt;/strong&gt; from &lt;a href=&quot;https://www.udemy.com/course/complete-networking-fundamentals-course-ccna-start&quot;&gt;David Bombal’s CCNA Course&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;~18:00-~31:00 of &lt;a href=&quot;https://www.youtube.com/watch?v=K_LsLq5yGgk&amp;amp;t=1245s&amp;amp;ab_channel=JohnSavill&quot;&gt;Powershell Master Class: Connecting Commands Together&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;pg 256 - pg 261 of [&lt;em&gt;Simply Scheme&amp;amp;&lt;/em&gt;]&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Finished Section 18: Broadcast and Collision Domains from David Bombal’s CCNA Course. ~18:00-~31:00 of Powershell Master Class: Connecting Commands Together</summary></entry><entry><title type="html">Daily Progress</title><link href="http://localhost:4000/2020/10/13/Daily-Progress.html" rel="alternate" type="text/html" title="Daily Progress" /><published>2020-10-13T00:00:00-07:00</published><updated>2020-10-13T00:00:00-07:00</updated><id>http://localhost:4000/2020/10/13/Daily-Progress</id><content type="html" xml:base="http://localhost:4000/2020/10/13/Daily-Progress.html">&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Section 17: The Life of a Packet&lt;/strong&gt; and started &lt;strong&gt;Section 18:
+Broadcaastnd Collision Domains&lt;/strong&gt;  from &lt;a href=&quot;https://www.udemy.com/course/complete-networking-fundamentals-course-ccna-start&quot;&gt;David Bombal’s CCNA
+Course&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;A bit more of chapter 16 from &lt;em&gt;Simply Scheme&lt;/em&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Section 17: The Life of a Packet and started Section 18: Broadcaastnd Collision Domains from David Bombal’s CCNA Course. A bit more of chapter 16 from Simply Scheme.</summary></entry><entry><title type="html">Daily Progress</title><link href="http://localhost:4000/2020/10/11/Daily-Progress.html" rel="alternate" type="text/html" title="Daily Progress" /><published>2020-10-11T00:00:00-07:00</published><updated>2020-10-11T00:00:00-07:00</updated><id>http://localhost:4000/2020/10/11/Daily-Progress</id><content type="html" xml:base="http://localhost:4000/2020/10/11/Daily-Progress.html">&lt;p&gt;Not much today:&lt;/p&gt;
 
-    &lt;ul&gt;
-      &lt;li&gt;
-        &lt;p&gt;&lt;a href=&quot;http://www.learnlinux.org.za/courses/build/net-admin/ch08s02.html&quot;&gt;Using smbclient&lt;/a&gt;&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;&lt;a href=&quot;https://payatu.com/guide-linux-privilege-escalation&quot;&gt;A Guide to Linux Privilege Escalation&lt;/a&gt;&lt;/p&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Installed Cisco Packet Tracer on my Windows 10.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Watched through video 13 &lt;em&gt;Networking Devices: Repeaters, Hubs, Switches,
-and Routers&lt;/em&gt; of &lt;a href=&quot;https://www.udemy.com/course/cisco-ccent-icnd1-100-105-complete-course-sims-and-gns3/?utm_source=adwords&amp;amp;utm_medium=udemyads&amp;amp;utm_campaign=CiscoCCNA_v.PROF_la.EN_cc.US_ti.5044&amp;amp;utm_content=deal4584&amp;amp;utm_term=_._ag_82041673404_._ad_436603255105_._kw__._de_c_._dm__._pl__._ti_dsa-774930035889_._li_1013406_._pd__._&amp;amp;matchtype=b&amp;amp;gclid=Cj0KCQjwhvf6BRCkARIsAGl1GGgsblfqRYDVCwp2BT9hUIqnLz4oxM8zueIhg7qXJzgj_z9Q0RBSbGQaAuiuEALw_wcB&quot;&gt;David Bombal’s CCNA
-course&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">Section 15 Active Directory Overview in Heath Adam’s Practical Ethical Hacking course on Udemy. Also downloaded ISO files for the Active Directory lab build.</summary></entry><entry><title type="html">Daily Progress</title><link href="http://localhost:4000/2020/09/11/Daily-Update.html" rel="alternate" type="text/html" title="Daily Progress" /><published>2020-09-11T00:00:00-07:00</published><updated>2020-09-11T00:00:00-07:00</updated><id>http://localhost:4000/2020/09/11/Daily-Update</id><content type="html" xml:base="http://localhost:4000/2020/09/11/Daily-Update.html">&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;em&gt;Generating Shellcode and Getting Root&lt;/em&gt; in Heath Adam’s &lt;a href=&quot;https://www.udemy.com/course/practical-ethical-hacking/&quot;&gt;&lt;em&gt;Practical Ethical
-Hacking&lt;/em&gt;&lt;/a&gt; course
-on Udemy.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;1.5 hours of work on the &lt;em&gt;Scoring Poker Hands&lt;/em&gt; project in &lt;strong&gt;Simply
-Scheme&lt;/strong&gt;. Produced functions to deal with hands produced by matching
-ranks. Next session I plan to develop a function to sort the ranks into
-appropriate order and then score flush hands. Finally I can produce
-a master function that will be able to determine the value of any given
-hand.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Reread Chapter 2 of &lt;strong&gt;Simply Scheme&lt;/strong&gt; for review.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;I was being driven crazy by the system beep tone whenever I accidently
-entered an invalid keysequence or tried to tab to a file that didn’t
-exist. I am running Kali Linux with the XFCE desktop. To turn it off, you
-can open a terminal and enter: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;xset -b&lt;/code&gt;. To permanently turn off the tone
-I created a startup program by going to Settings Manager -&amp;gt; Session and
-Startup -&amp;gt; Application Autostart -&amp;gt; &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;+ Add&lt;/code&gt; With the settings:&lt;/p&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;
-        &lt;p&gt;Name PC Speaker Off&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Command: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;xset -b&lt;/code&gt;&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Trigger: on login&lt;/p&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;vim&lt;/code&gt; command of the day: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;%&lt;/code&gt; is used to jump to a matching parenthesis,
-square bracket, or curly brace, the start or end of a C-style comment,
-as well as other matching keywords/conditionals if they are specified in
-ftplugin files.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.freecodecamp.org/learn/&quot;&gt;freeCodeCamp’s Responsive Web Design
-Certification&lt;/a&gt; &lt;em&gt;Adjust the Margin
-of an Element&lt;/em&gt; → &lt;em&gt;Improve Compatibility with Browser Fallbacks&lt;/em&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Worked through HTB: Lame without metasploit as OSCP practice. I ended up
-writing my own python script for, though it looks a lot like other
-available ones, though I wrote it for python 3.&lt;/p&gt;
-  &lt;/li&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Simply Scheme&lt;/em&gt; chapter 16 section on &lt;strong&gt;backtracking&lt;/strong&gt;. I will
+probably need to go over this again, but it does seem really useful.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Not much today:</summary></entry><entry><title type="html">Daily Progress</title><link href="http://localhost:4000/2020/10/02/Daily-Progress.html" rel="alternate" type="text/html" title="Daily Progress" /><published>2020-10-02T00:00:00-07:00</published><updated>2020-10-02T00:00:00-07:00</updated><id>http://localhost:4000/2020/10/02/Daily-Progress</id><content type="html" xml:base="http://localhost:4000/2020/10/02/Daily-Progress.html">&lt;ul&gt;
+  &lt;li&gt;Finished &lt;em&gt;Simply Scheme&lt;/em&gt; exercise 16.2. It was definitely of those
+instanances where the when I started working on the problem I had no
+idea why it wasn’t working and now this morning it was really obvious
+how to do it. I hope that means my brain is growing.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;htb-lame-notes&quot;&gt;HTB: Lame Notes&lt;/h3&gt;
-
-&lt;p&gt;A few further notes. An important part of the script is assignment of the
-shellcode with the call:&lt;/p&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;userID = &quot;/=` nohup &quot; + buf + &quot;`&quot;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;There are two important things about this. The first does not actually
-directly relate to this call itself but rather the msfvenom payload
-referenced by &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;buf&lt;/code&gt;. You need to be sure to delete the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;b&lt;/code&gt; at the
-beginning of each line that will tell python that it is byte code. By
-removing this, python reads the line as a string and can therefore
-concatenate it with the other strings you have supplied. The second is the
-call to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;nohup&lt;/code&gt; which is a linux command for “no hookup”. As best I can
-tell, this is because we are trying to run our code between entering the
-logon userID(which is what contains our code) and the system asking for
-a password. To get the required time, we provide this command, which then
-lets our other code run in the background. I will also include a few
-resources that I read through after running through the box as much on my
-own as I could:&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://linux.101hacks.com/unix/nohup-command/&quot;&gt;nohup link&lt;/a&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://0xdf.gitlab.io/2020/04/07/htb-lame.html&quot;&gt;Lame Walkthrough 1&lt;/a&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://medium.com/@nmappn/exploiting-smb-samba-without-metasploit-series-1-b34291bbfd63&quot;&gt;Lame Walkthrough
-2&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://amriunix.com/post/cve-2007-2447-samba-usermap-script/&quot;&gt;Samba Usermap Script In More
-Detail&lt;/a&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">Generating Shellcode and Getting Root in Heath Adam’s Practical Ethical Hacking course on Udemy.</summary></entry><entry><title type="html">Daily Progress</title><link href="http://localhost:4000/2020/09/10/Daily-Update.html" rel="alternate" type="text/html" title="Daily Progress" /><published>2020-09-10T00:00:00-07:00</published><updated>2020-09-10T00:00:00-07:00</updated><id>http://localhost:4000/2020/09/10/Daily-Update</id><content type="html" xml:base="http://localhost:4000/2020/09/10/Daily-Update.html">&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;em&gt;Finding the Right Module&lt;/em&gt; in Heath Adam’s &lt;a href=&quot;https://www.udemy.com/course/practical-ethical-hacking/&quot;&gt;&lt;em&gt;Practical Ethical
-Hacking&lt;/em&gt;&lt;/a&gt; course
-on Udemy.&lt;/p&gt;
+  &lt;li&gt;More of an observation, but I am really enjoying using VScode with
+VIM, much more so than either of them on their own.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Finished Simply Scheme exercise 16.2. It was definitely of those instanances where the when I started working on the problem I had no idea why it wasn’t working and now this morning it was really obvious how to do it. I hope that means my brain is growing.</summary></entry><entry><title type="html">Daily Progress</title><link href="http://localhost:4000/2020/10/01/Daily-Progress.html" rel="alternate" type="text/html" title="Daily Progress" /><published>2020-10-01T00:00:00-07:00</published><updated>2020-10-01T00:00:00-07:00</updated><id>http://localhost:4000/2020/10/01/Daily-Progress</id><content type="html" xml:base="http://localhost:4000/2020/10/01/Daily-Progress.html">&lt;p&gt;Today was not particulary productive in regards to studying. Most of the
+day was spent making preparations for our camping trip to San Onofre 
+State Beach.&lt;/p&gt;
 
-    &lt;ul&gt;
-      &lt;li&gt;A few issues came up when trying to download the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mona.py&lt;/code&gt;
-script. I had issues with cURL when trying to download it in my
-Windows 10 environment. When I come up with a solution to this I will post
-it. My second attempt was to simply use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;vim&lt;/code&gt; to create the file directly
-in the directory. However, on my new install of Windows 10, I couldn’t
-paste the text into vim. Look below for the fix to this.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;In the afternoon I helped flush the coolant system on a friend’s new
-&lt;strong&gt;&lt;em&gt;24 Hours of Lemons&lt;/em&gt;&lt;/strong&gt; racecar. While flushing, we discovered that the
-coolant system has several leaks and also does not seem to be running
-coolant completely through the system very well. A “new” waterpump may be
-in order. In this race series, that cost of the vehicle less the cost of
-safety systems must be less than $500, which doesn’t leave much room for
-anything approaching actually new parts.&lt;/p&gt;
-  &lt;/li&gt;
+&lt;ul&gt;
+  &lt;li&gt;I did start working on &lt;strong&gt;Chapter 16 Example: Pattern Matcher&lt;/strong&gt; from
+&lt;em&gt;Simply Scheme&lt;/em&gt;. I completed the first part of the chapter and started
+on the exercises, of which I completed the first and started the
+second.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;enable-pasting-into-vim-in-windows-10&quot;&gt;Enable Pasting into vim in Windows 10&lt;/h3&gt;
-
-&lt;p&gt;Open Powershell as an Adminstrator, then use the vim command:&lt;/p&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;
-:edit $MYVIMRC
-
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;which will edit your .vimrc whereever it is then added this to it:&lt;/p&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;
-source $VIMRUNTIME/mswin.vim
-
-behave mswin
-
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;and then save via the usual route.&lt;/p&gt;</content><author><name></name></author><summary type="html">Finding the Right Module in Heath Adam’s Practical Ethical Hacking course on Udemy.</summary></entry><entry><title type="html">Enjoying the Beginning of Autumn</title><link href="http://localhost:4000/2020/09/09/Not-So-Update.html" rel="alternate" type="text/html" title="Enjoying the Beginning of Autumn" /><published>2020-09-09T00:00:00-07:00</published><updated>2020-09-09T00:00:00-07:00</updated><id>http://localhost:4000/2020/09/09/Not-So-Update</id><content type="html" xml:base="http://localhost:4000/2020/09/09/Not-So-Update.html">&lt;p&gt;Not much actual learning got done today, but it was fun:&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Experimented with different themes for the blog. Some of them wouldn’t
-work with Github Pages, including my favorite one. That was a little
-disappointing, but provides a learning oppertunity, as I will probably
-try to write a similar but compatible one!&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Created a Google Analytics account. I did not get it setup on my
-website, but at least I will be able to soon.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Finished selling one of our cars. Not fun, but exciting.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Enjoyed the second day of very Autumnal weather with a bike ride with
-the family. We rode to downtown, got coffee and muffins, and then rode
-to Buffalo Park where we took a nice walk. Bike rides in Fall weather are
-one of our favorite things!&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Had Buffalo Chicken and Instant Pot Mac and Cheese while watching &lt;em&gt;Star
-Wars: A New Hope&lt;/em&gt; with one of our friends.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">Not much actual learning got done today, but it was fun:</summary></entry><entry><title type="html">Daily Progress</title><link href="http://localhost:4000/2020/09/08/Daily-Progress.html" rel="alternate" type="text/html" title="Daily Progress" /><published>2020-09-08T00:00:00-07:00</published><updated>2020-09-08T00:00:00-07:00</updated><id>http://localhost:4000/2020/09/08/Daily-Progress</id><content type="html" xml:base="http://localhost:4000/2020/09/08/Daily-Progress.html">&lt;h1 id=&quot;september-8-2020&quot;&gt;September 8, 2020&lt;/h1&gt;
+  &lt;li&gt;I also worked on getting vim setup in VScode. This included getting
+extensions and &lt;a href=&quot;https://github.com/Keegan-Evans/kevans/blob/master/swap-caps-escape.reg&quot;&gt;setting up windows to swap CAP LOCK and ESC
+keys&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Transfered domain registrar from Wordpress to Google Domains, set up DNS
-and an enabled https.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Worked through and took notes on &lt;em&gt;Finding the Offset&lt;/em&gt;, &lt;em&gt;Overwriting the
-EIP&lt;/em&gt;, and &lt;em&gt;Finding Bad Characters&lt;/em&gt; in Heath Adam’s &lt;a href=&quot;https://www.udemy.com/course/practical-ethical-hacking/&quot;&gt;&lt;em&gt;Practical Ethical
-Hacking&lt;/em&gt;&lt;/a&gt; course
-on Udemy.&lt;/p&gt;
+  &lt;li&gt;VIM tip of the day: To ensure there is a blank line between your
+paragraphs, you can add the html tags for a paragraph:
+    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;*paragraph one*
 
-    &lt;ul&gt;
-      &lt;li&gt;When working through &lt;em&gt;Finding Bad Characters&lt;/em&gt;, when providing
-the list of bad characters, be sure to delete the valuen “\x00”
-as it is a known bad character and will mess up the rest of your results
-if left in. I was pulling my hair out trying to figure this out.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">September 8, 2020</summary></entry><entry><title type="html">Daily Progress</title><link href="http://localhost:4000/2020/09/07/Daily-Progress.html" rel="alternate" type="text/html" title="Daily Progress" /><published>2020-09-07T00:00:00-07:00</published><updated>2020-09-07T00:00:00-07:00</updated><id>http://localhost:4000/2020/09/07/Daily-Progress</id><content type="html" xml:base="http://localhost:4000/2020/09/07/Daily-Progress.html">&lt;h1 id=&quot;september-7-2020&quot;&gt;September 7, 2020&lt;/h1&gt;
+&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;
 
+*paragraph two*
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+    &lt;p&gt;There may be a more elegant way to do it, but this works!&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Today was not particulary productive in regards to studying. Most of the day was spent making preparations for our camping trip to San Onofre State Beach.</summary></entry><entry><title type="html">Daily Progress</title><link href="http://localhost:4000/2020/09/30/Daily-Progress.html" rel="alternate" type="text/html" title="Daily Progress" /><published>2020-09-30T00:00:00-07:00</published><updated>2020-09-30T00:00:00-07:00</updated><id>http://localhost:4000/2020/09/30/Daily-Progress</id><content type="html" xml:base="http://localhost:4000/2020/09/30/Daily-Progress.html">&lt;p&gt;I have decided to really focus on tackling studying for the CCNA for now,
+with the goal of sitting for it near the end of the year. I also plan on
+keeping up on my coding. That being said, there will probably be a bit
+less variety on my progress for a while. I plan to continue working
+throught &lt;em&gt;Simply Scheme&lt;/em&gt; as well as random Python projects and some work
+on my website. That said:&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Worked through and took notes on &lt;em&gt;Introduction to Buffer Overflows&lt;/em&gt;,
-&lt;em&gt;Spiking&lt;/em&gt;, and &lt;em&gt;Fuzzing&lt;/em&gt; in Heath Adam’s &lt;a href=&quot;https://www.udemy.com/course/practical-ethical-hacking/&quot;&gt;&lt;em&gt;Practical Ethical
-Hacking&lt;/em&gt;&lt;/a&gt; course
-on Udemy.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;~2.5 hours reading through the previously mentioned &lt;a href=&quot;https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages#what-are-static-sites-jekyll-etc--why-might-i-care-&quot;&gt;Building a Static
-Site with Jekyll and
-Github&lt;/a&gt;
-and began working on setting up my own site, which mostly consisted of
-installing Jekyll and generating the basic files.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Freecodecamp’s &lt;a href=&quot;https://www.freecodecamp.org/learn&quot;&gt;responsive webdesign
-course&lt;/a&gt; Basic CSS: &lt;em&gt;Introduction to
-Basic CSS&lt;/em&gt; -&amp;gt; &lt;em&gt;Adjust the Padding of an Element&lt;/em&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;em&gt;2.5.2 Overview of How DNS Works&lt;/em&gt; of &lt;a href=&quot;https://amzn.to/3m1poEI&quot;&gt;Networking: A Top Down Approach (Affiliate
-Link)&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">September 7, 2020</summary></entry><entry><title type="html">Daily Progress</title><link href="http://localhost:4000/2020/09/06/Daily-Progress.html" rel="alternate" type="text/html" title="Daily Progress" /><published>2020-09-06T00:00:00-07:00</published><updated>2020-09-06T00:00:00-07:00</updated><id>http://localhost:4000/2020/09/06/Daily-Progress</id><content type="html" xml:base="http://localhost:4000/2020/09/06/Daily-Progress.html">&lt;h1 id=&quot;september-6-2020&quot;&gt;September 6, 2020&lt;/h1&gt;
-
-&lt;p&gt;Not much on today, most of the limited time I got to work on anything on the computer was spent trying to figure out how to setup a website with Github pages, as I had essentially quite writing on my wordpress page because their “fancy” layout drove me crazy and I much prefer being able to write using vim and markdown, especially if it is combined with git/github. Apparently sometime in the past I created a repository for this but never set anything up on it. Well this evening I gave it a go, though that essentially consisted of writing a short intro and trying to figure out how to view it after deleting the default index page. Apparently I need to learn anything about how a website is actually setup, so I found the articles below that I plan to read when I get done with this. I want to have a site that is somewhat of a blog/homepage hybrid, hence the article choice. With that being said the day consisted of:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Write introduction, activate github pages, delete default index file.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Wonder how to actually display anything.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages#what-are-static-sites-jekyll-etc--why-might-i-care-&quot;&gt;Building a static website with Jekyll and GitHub Pages&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.creativebloq.com/how-to/jekyll-blog&quot;&gt;How to Build a Blog with Jekyll&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Setup my .vimrc file on my new Kali install.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">September 6, 2020</summary></entry></feed>
+  &lt;li&gt;I completed &lt;em&gt;Subnetting Lab 2&lt;/em&gt; (&lt;strong&gt;Section 12&lt;/strong&gt;), looked over the cheat
+sheet in &lt;strong&gt;Section 13&lt;/strong&gt;, and did &lt;em&gt;Subnetting VLOG #50&lt;/em&gt; from &lt;strong&gt;Section
+14&lt;/strong&gt; of &lt;a href=&quot;https://www.udemy.com/course/complete-networking-fundamentals-course-ccna-start&quot;&gt;David Bombal’s CCNA
+Course&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">I have decided to really focus on tackling studying for the CCNA for now, with the goal of sitting for it near the end of the year. I also plan on keeping up on my coding. That being said, there will probably be a bit less variety on my progress for a while. I plan to continue working throught Simply Scheme as well as random Python projects and some work on my website. That said: I completed Subnetting Lab 2 (Section 12), looked over the cheat sheet in Section 13, and did Subnetting VLOG #50 from Section 14 of David Bombal’s CCNA Course</summary></entry></feed>

@@ -1,0 +1,10 @@
+I"<ul>
+  <li><em>cracking the hash with Hashcat</em> from <a href="https://www.udemy.com/course/practical-ethical-hacking/">Practical Ethical
+Hacking</a>. This
+ended up being more complicated than I thought as I ended up needing to
+install NVIDIA CUDA and Visual Studio to try to get it running right.
+I was not able to get it running successfully, I think my graphics card
+may be too old and not compatible with hashcat. I am working on building
+a new computer and hopefully this will not be an issue soon.</li>
+</ul>
+:ET

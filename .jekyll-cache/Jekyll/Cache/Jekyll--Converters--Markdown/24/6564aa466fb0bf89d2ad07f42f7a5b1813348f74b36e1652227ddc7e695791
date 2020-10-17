@@ -1,0 +1,19 @@
+I"�<ul>
+  <li>
+    <p><a href="https://youtu.be/K_LsLq5yGgk">Powershell Master Class: Connecting Commands</a> to 21:45.</p>
+  </li>
+  <li>
+    <p>Finished <strong>Section 7</strong> and then <strong>Intitial Device Configuration
+(Section 8)</strong> and <strong>Basic Cisco Configuration Lab (Section 9)</strong> in
+the <a href="https://www.udemy.com/course/complete-networking-fundamentals-course-ccna-start/">Complete Networking
+Fundamentals-CCNA</a>
+course.</p>
+  </li>
+  <li>
+    <p>Installed ‘ipython’ in my base install of python so that I can use it in
+the terminal inside of vscode. You just open your Powershell Terminal
+inside of VScode and enter <code class="language-plaintext highlighter-rouge">python -m IPython</code> to run it.</p>
+  </li>
+</ul>
+
+:ET
