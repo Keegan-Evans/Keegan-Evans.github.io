@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2020-10-16
+date: 2020-10-16     
 categories: [ccna, "simply scheme", coding, website]
 ---
 
@@ -18,3 +18,6 @@ categories: [ccna, "simply scheme", coding, website]
   combo. I have also started on an article about organizing your Jekyll
   pages. All of the information is in the documentation, but I think at
   least for myself it will be handy for the future.
+
+  - ***Vim Command of the Day***: ```^``` jumps or tells the action to
+    jump to the first character in the line. 
