@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-10-16
-catergories: [ccna, "simply scheme", coding, website]
+categories: [ccna, "simply scheme", coding, website]
 ---
 
 - **Section 19: Duplex and Speed Mismatch Demo** from [David Bombal's CCNA

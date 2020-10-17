@@ -1,7 +1,7 @@
 ---
 layout: page
 title: My Linux Configuration Tweaks
-catergories: [configuration, computer, linux]
+categories: [configuration, computer, linux]
 ---
 
 ## My Setup
