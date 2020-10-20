@@ -16,7 +16,7 @@ catergories: ["simply scheme", ccna]
   password YOUR_PASSWORD
   login
   ```
-- 16.12 from *Simply Scheme* and wrote out by hand the *match* program. 
+- 16.12 from *Simply Scheme*.
 
 - Worked on post about organizing a website using Jekyll. 
 

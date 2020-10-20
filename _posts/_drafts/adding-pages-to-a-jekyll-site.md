@@ -15,6 +15,5 @@ are two reasons why this is:
   navigation material available in the base level (that is the
   *default*) layout, then it will be available to all other layouts. 
 
-- Each page should have a layout. Because these layouts inherit from the
-  default layout, they inherit the navigation information contained in
+- Each page should have a layout. Because these layouts inherit from the default layout, they inherit the navigation information contained in
   the `
