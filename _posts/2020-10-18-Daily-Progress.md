@@ -18,6 +18,6 @@ catergories: ["simply scheme", ccna]
   ```
 - 16.12 from *Simply Scheme*.
 
-- Worked on post about organizing a website using Jekyll. 
+- Started working on a post about organizing a website using Jekyll. 
 
 - Listening to today: [VØSNE: Hypnotic Session](https://youtu.be/IvflPFtz-zs)
