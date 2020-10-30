@@ -7,8 +7,8 @@ categories: ["simply scheme", ccna, python, jekyll, website]
 - The big thing was finishing exercise 16.20. This exercise felt quite
   challenging, as it required understanding exactly how a function that
   someone else wrote, and then expanding it using a function that was
-  similar required different inputs and different set of recursions. I
-  may work on a write up or video of it. 
+  similar required different inputs and a different set of recursions. I
+  may work on a write-up or video of it. 
 
 - Read Chapter 2 of [Wendell Odom's CCNA
   guide](https://amzn.to/3dHP3P0). While the video courses feel a bit
@@ -25,7 +25,7 @@ categories: ["simply scheme", ccna, python, jekyll, website]
   will discuss when I get to them. 
 
   My plan up to this point has been to read the chapter on one day and
-  then create anki flash cards on the next day using the review section
+  then create Anki flash cards on the next day using the review section
   as a guide. I will detail this process more later. As an aid to the
   creation of flash cards, I also purchased the Premium Digital Edition
   of the book directly through Pearson. The print version of the book
