@@ -1,5 +1,5 @@
 --- 
-layout:post
+layout: post
 date: 2020-10-10
 catergories: [ccna, certification, "simply scheme"]
 ---

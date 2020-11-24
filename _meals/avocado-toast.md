@@ -1,6 +1,6 @@
 ---
 layout: meal
-catergories: [meals, vegetarian, breakfast]
+categories: [meals, vegetarian, breakfast]
 ---
 
 # Avocado Toast
