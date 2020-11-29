@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-11-14
- tags: ["simply scheme", bioinformatics, "code-the hidden language of computers"]
+tags: ["simply scheme", bioinformatics, "code the hidden language of computers"]
 ---
 
 - Finished Chapter 18 exercises from *Simply Scheme*.

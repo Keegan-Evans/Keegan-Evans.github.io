@@ -1,13 +1,18 @@
 ---
 layout: default
+permalink: /articles/
 ---
 
-{% for article in site.articles %}
+<h1>Various Thoughts About Various Things</h1>
+
+{% for article in site._pages.articles %}
 
   <h2>
-      <a href="{{ article.url}}">
+    <li>
+      <a href="{{ article.url }}">
           {{ article.title }}
       </a>
+    </li>
   </h2>
-  <p>{{ article.content | markdownify }}</p>
+<!--  <p>{{ article.content | markdownify }}</p> -->
 {% endfor %}

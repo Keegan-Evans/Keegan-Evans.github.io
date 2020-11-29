@@ -1,0 +1,34 @@
+$birch-bark: #F3ECD8;
+$birch-leaves: #97AB17;
+$pastel-purple: #665473;
+$off-black: #2B2F0E;
+$autumn-orange: #F1B51E;
+
+$myWidth: 680px;
+
+
+* {
+  box-sizing: border-box;
+  margin: 25px;
+  padding: 0;
+}
+
+body {
+  font-size: 18px;
+  font-family: Arial;
+  background-color: $birch-bark;
+  color: $off-black;
+}
+
+#container {
+    width: $myWidth;
+}
+
+.link {
+    color: $off-black;
+    
+    &--active {
+            @extend .link;
+            color: $birch-leaves;    
+        }
+}
