@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+{% for article in site.articles %}
+
+  <h2>
+      <a href="{{ article.url}}">
+          {{ article.title }}
+      </a>
+  </h2>
+  <p>{{ article.content | markdownify }}</p>
+{% endfor %}
