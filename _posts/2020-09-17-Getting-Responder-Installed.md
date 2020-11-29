@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Getting Responder Installed
-catergories: [infosec, oscp, responder, "practical ethical hacking",
+tags: [infosec, oscp, responder, "practical ethical hacking",
 troubleshooting]
 published: false
 ---

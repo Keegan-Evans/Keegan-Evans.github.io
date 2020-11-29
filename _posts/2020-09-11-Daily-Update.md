@@ -2,7 +2,7 @@
 layout: post
 title: Daily Progress
 date: 2020-09-11
-catergories: [it, infosec, learning, certification]
+tags: [it, infosec, learning, certification]
 ---
 
 - *Generating Shellcode and Getting Root* in Heath Adam's [*Practical Ethical

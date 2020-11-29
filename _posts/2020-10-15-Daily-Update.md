@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-10-15
-catergories: ["simply scheme", ccna, coding]
+tags: ["simply scheme", ccna, coding]
 ---
 
 - Started **Section 19: Duplex and Speed Mismatch Demo** from [David

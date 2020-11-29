@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-09-24
-catergories: [python, oscp, "hack the box", requests, "beautiful soup"]
+tags: [python, oscp, "hack the box", requests, "beautiful soup"]
 ---
 
 - Most of the morning I worked more on using requests and Beautiful Soup

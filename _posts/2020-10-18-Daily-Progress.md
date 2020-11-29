@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-10-18
-catergories: ["simply scheme", ccna]
+tags: ["simply scheme", ccna]
 ---
 
 - Finished **Section 20** from [David Bombal's CCNA

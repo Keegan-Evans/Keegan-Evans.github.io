@@ -2,7 +2,7 @@
 layout: post
 title: "Daily Progress"
 date: 2020-09-06
-catergories: it infosec learning
+tags: it infosec learning
 ---
 
 # September 6, 2020

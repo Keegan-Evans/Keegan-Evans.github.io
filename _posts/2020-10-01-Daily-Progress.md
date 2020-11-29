@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-10-01
-catergories: [scheme, coding, vim, vscode, "simply scheme"]
+tags: [scheme, coding, vim, vscode, "simply scheme"]
 ---
 
 Today was not particulary productive in regards to studying. Most of the

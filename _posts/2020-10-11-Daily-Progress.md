@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-10-11
-catergories: ["simply scheme", recursion, backtracking]
+tags: ["simply scheme", recursion, backtracking]
 ---
 
 Not much today:

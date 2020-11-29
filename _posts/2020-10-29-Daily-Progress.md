@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-10-29
-catergories: ["simply scheme", trailer, winter]
+tags: ["simply scheme", trailer, winter]
 ---
 
 This week has been quite hectic, with a lot of it taken up continuing

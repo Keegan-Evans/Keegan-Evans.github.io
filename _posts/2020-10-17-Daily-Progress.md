@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-10-17
-categories: [ccna, "simply scheme", website]
+tags: [ccna, "simply scheme", website]
 ---
 
 - Started **Section 20: What is a Loopback?** from [David Bombal's CCNA Course](https://www.udemy.com/course/complete-networking-fundamentals-course-ccna-start).

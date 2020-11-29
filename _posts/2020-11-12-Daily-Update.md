@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-11-12
-categories: [genomics, "simply scheme"]
+tags: [genomics, "simply scheme"]
 ---
 
 - Module 4 and 5 of *Genomic Data Science with Galaxy* course.

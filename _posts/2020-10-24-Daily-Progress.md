@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-10-24
-categories: [ccna, "simply schme"]
+tags: [ccna, "simply schme"]
 ---
 
 - Read **Part V** introduction and started on **Chapter 17** of *Simply

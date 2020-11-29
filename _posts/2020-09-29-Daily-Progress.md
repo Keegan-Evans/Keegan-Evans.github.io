@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-09-29
-catergories: [ccna, certifications, networking]
+tags: [ccna, certifications, networking]
 ---
 
 - **IP Subnetting (Section 10)** and stumbled through the Lab portion on

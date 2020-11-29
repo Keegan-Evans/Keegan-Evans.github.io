@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-10-25
-categories: ["simply schme", RV, winterizing]
+tags: ["simply scheme", RV, winterizing]
 ---
 
 - Exercises through 17.4 of *Simply Scheme*.

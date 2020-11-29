@@ -2,7 +2,7 @@
 layout: post
 date: 2020-09-13
 title: Daily Progress
-catergories: [ccna, infosec, privesc, learning]
+tags: [ccna, infosec, privesc, learning]
 ---
 
 - Articles Read:

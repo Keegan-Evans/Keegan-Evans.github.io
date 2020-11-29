@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-09-14
-catergories: [infosec, it, learning, linux, "restricted shell", "simply
+tags: [infosec, it, learning, linux, "restricted shell", "simply
 scheme", vim]
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-10-02
-catergories: ["simply scheme", coding, scheme, ccna, certs]
+tags: ["simply scheme", coding, scheme, ccna, certs]
 ---
 
 - Finished *Simply Scheme* exercise 16.2. It was definitely of those

@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-09-17
-catergories: [infosec, learning, oscp, ccna]
+tags: [infosec, learning, oscp, ccna]
 ---
 
 - Started a music page for my website of some of my favorite music. 

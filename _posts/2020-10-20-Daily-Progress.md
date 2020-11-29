@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-10-20
-categories: [ccna, "simply scheme"]
+tags: [ccna, "simply scheme"]
 ---
 
 - Chapter 1 review as Anki flashcards for [Wendell Odom's CCNA

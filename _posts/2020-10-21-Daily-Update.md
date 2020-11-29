@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-10-21
-categories: ["simply scheme", ccna, python, jekyll, website]
+tags: ["simply scheme", ccna, python, jekyll, website]
 ---
 
 - The big thing was finishing exercise 16.20. This exercise felt quite

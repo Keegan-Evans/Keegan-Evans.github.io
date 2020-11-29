@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-11-13
-categories: ["simply scheme", genomics]
+tags: ["simply scheme", genomics]
 ---
 
 - Worked on the Course Project for [*Genomic Data Science with Galaxy*](https://www.coursera.org/learn/galaxy-project/home/welcome).

@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-09-20
-catergories: [ccna, hiking]
+tags: [ccna, hiking]
 ---
 
 - I did not get much done as far as studying. The big story from the day

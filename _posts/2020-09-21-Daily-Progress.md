@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-09-21
-catergories: [scheme, programming, recursion]
+tags: [scheme, programming, recursion]
 
 - Got the `straight?` predicate for the *scoring poker hands project
   working*.

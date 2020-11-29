@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-11-10
-categories: [bioinformatics, website, jekyll]
+tags: [bioinformatics, website, jekyll]
 ---
 
 - Completed the *Johns Hopkins University: Introduction to Genomic

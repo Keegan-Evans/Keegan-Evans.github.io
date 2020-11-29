@@ -1,7 +1,7 @@
 --- 
 layout: post
 date: 2020-10-10
-catergories: [ccna, certification, "simply scheme"]
+tags: [ccna, certification, "simply scheme"]
 ---
 
 - Finished through video 81 of **Section 15: Cabling and Packet Flows** from

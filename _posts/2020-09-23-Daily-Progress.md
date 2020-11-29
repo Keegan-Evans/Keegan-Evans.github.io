@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-09-23
-catergories: [powershell, info-sec, cars]
+tags: [powershell, info-sec, cars]
 ---
 
 - In an effort imolate myself up on the *Altar of Diving Down Rabbit

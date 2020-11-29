@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-09-12
-catergories: [it, certifications, infosec]
+tags: [it, certifications, infosec]
 ---
 
 - ***Section 15*** *Active Directory Overview* in Heath Adam's [Practical Ethical Hacking](https://www.udemy.com/course/practical-ethical-hacking/) course

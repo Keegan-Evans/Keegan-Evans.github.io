@@ -1,6 +1,6 @@
 ---
 layout: post
-catergories: [infosec, it, learning, career, ccna]
+tags: [infosec, it, learning, career, ccna]
 ---
 
 - *Networking Devices: Firewalls, IDS, IPS, and WLC* and *OSI and TCP/IP

@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-09-19
-catergories: [infosec, hacking, "active directory", "hash cracking"]
+tags: [infosec, hacking, "active directory", "hash cracking"]
 ---
 
 - *cracking the hash with Hashcat* from [Practical Ethical

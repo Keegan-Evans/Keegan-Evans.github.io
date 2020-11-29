@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-09-22
-catergories: [infosec, hack-the-box, powershell, parenting, aspergers]
+tags: [infosec, hack-the-box, powershell, parenting, aspergers]
 ---
 
 Today has solely consisted of playing around/struggling with the

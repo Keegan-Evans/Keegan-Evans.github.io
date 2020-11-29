@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-10-13
-catergories: [ccna, "simply scheme"]
+tags: [ccna, "simply scheme"]
 ---
 
 - **Section 17: The Life of a Packet** and started **Section 18:

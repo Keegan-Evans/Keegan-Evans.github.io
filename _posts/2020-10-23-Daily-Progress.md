@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-10-23
-categories: [ccna, "simply schme"]
+tags: [ccna, "simply schme"]
 ---
 
 - Finished the remaining exercises in Chapter 16 of *Simply Scheme*.
