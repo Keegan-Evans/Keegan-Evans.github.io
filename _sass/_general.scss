@@ -6,12 +6,14 @@ $autumn-orange: #F1B51E;
 
 $myWidth: 680px;
 
-
+/*
 * {
   box-sizing: border-box;
-  margin: 25px;
+  border: solid $off-black 2px;
+  margin: 0;
   padding: 0;
 }
+*/
 
 body {
   font-size: 18px;
@@ -20,7 +22,7 @@ body {
   color: $off-black;
 }
 
-#container {
+p {
     width: $myWidth;
 }
 
