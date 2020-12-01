@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-12-01T05:36:28-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Keegan Evans - Home</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Blog</title><link href="http://localhost:4000/2020/11/29/blog.html" rel="alternate" type="text/html" title="Blog" /><published>2020-11-29T00:00:00-07:00</published><updated>2020-11-29T00:00:00-07:00</updated><id>http://localhost:4000/2020/11/29/blog</id><content type="html" xml:base="http://localhost:4000/2020/11/29/blog.html">&lt;p&gt;Yesterday and today have been filled with lots and lots of work on getting my website looking not completely terrible. Or even just functioning. Somehow I had not realized that the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;categories&lt;/code&gt; tag was for creating directory structures, while &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;tags&lt;/code&gt; was what I was actually trying to use. This created problems when I tried to included the tag &lt;em&gt;Code: The Secret Language of Computers&lt;/em&gt;, as it tried to create a directory with this name, which it could not, and would allow the website to generate.&lt;/p&gt;
+
+&lt;p&gt;I have also been working on the organization and styling of the website, which were in dire need of help. I probably should have used a theme, but as with most things in my life, I wanted the experience and control of doing it myself. So I am learning about SASS, CSS, and HTML. Which has been an interesting learning experience but doesn’t exactly lead me to believe strongly that I would like to be a web developer.&lt;/p&gt;</content><author><name></name></author><category term="website" /><summary type="html">Yesterday and today have been filled with lots and lots of work on getting my website looking not completely terrible. Or even just functioning. Somehow I had not realized that the categories tag was for creating directory structures, while tags was what I was actually trying to use. This created problems when I tried to included the tag Code: The Secret Language of Computers, as it tried to create a directory with this name, which it could not, and would allow the website to generate.</summary></entry><entry><title type="html">Blog</title><link href="http://localhost:4000/2020/11/24/blog.html" rel="alternate" type="text/html" title="Blog" /><published>2020-11-24T00:00:00-07:00</published><updated>2020-11-24T00:00:00-07:00</updated><id>http://localhost:4000/2020/11/24/blog</id><content type="html" xml:base="http://localhost:4000/2020/11/24/blog.html">&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Got the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;play-ttt&lt;/code&gt; function. I am not sure exactly how, I downloaded a
+fresh copy of ttt.scm from the book website and deleted and re-entered
+the apparent offenders in the function and it seems to be working
+fine. I think maybe I had copy and pasted part of the function from
+the pdf of the text book and that the apostrophes had the wrong
+encoding…but I am not sure.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Read the section on PAM Scoring Matrices from &lt;em&gt;Bioinformatics and
+Functional Genomics&lt;/em&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Worked problems on &lt;a href=&quot;https://www.codewars.com&quot;&gt;Code Wars&lt;/a&gt; for 35 minutes.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Chapter 6.1 from “Python for Data Analysis”&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="simply scheme" /><category term="python for data analysis" /><category term="bioinformatics and functional genomics" /><category term="website" /><summary type="html">Got the play-ttt function. I am not sure exactly how, I downloaded a fresh copy of ttt.scm from the book website and deleted and re-entered the apparent offenders in the function and it seems to be working fine. I think maybe I had copy and pasted part of the function from the pdf of the text book and that the apostrophes had the wrong encoding…but I am not sure.</summary></entry><entry><title type="html">Blog</title><link href="http://localhost:4000/2020/11/23/blog.html" rel="alternate" type="text/html" title="Blog" /><published>2020-11-23T00:00:00-07:00</published><updated>2020-11-23T00:00:00-07:00</updated><id>http://localhost:4000/2020/11/23/blog</id><content type="html" xml:base="http://localhost:4000/2020/11/23/blog.html">&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Finished chapter 4 of &lt;em&gt;Python for Data Analysis&lt;/em&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Read/worked through chapter 20 of &lt;em&gt;Simply Scheme&lt;/em&gt; up to start the section
+&lt;strong&gt;Tic-Tac-Toe Revisited&lt;/strong&gt;, where I ran into an error where I believe my
+square procedure kept returning &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;#f&lt;/code&gt; instead of the function name when the
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;stupid-ttt&lt;/code&gt; was called.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="simply scheme" /><category term="python for data analysis" /><summary type="html">Finished chapter 4 of Python for Data Analysis</summary></entry><entry><title type="html">Blog</title><link href="http://localhost:4000/2020/11/21/blog.html" rel="alternate" type="text/html" title="Blog" /><published>2020-11-21T00:00:00-07:00</published><updated>2020-11-21T00:00:00-07:00</updated><id>http://localhost:4000/2020/11/21/blog</id><content type="html" xml:base="http://localhost:4000/2020/11/21/blog.html">&lt;ul&gt;
+  &lt;li&gt;Finished &lt;em&gt;Simply Scheme&lt;/em&gt; 19.11!!!&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="simply scheme" /><summary type="html">Finished Simply Scheme 19.11!!!</summary></entry><entry><title type="html">Blog</title><link href="http://localhost:4000/2020/11/20/blog.html" rel="alternate" type="text/html" title="Blog" /><published>2020-11-20T00:00:00-07:00</published><updated>2020-11-20T00:00:00-07:00</updated><id>http://localhost:4000/2020/11/20/blog</id><content type="html" xml:base="http://localhost:4000/2020/11/20/blog.html">&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;em&gt;Bioinformatics and Functional Genomics&lt;/em&gt; chapter 2 exercises.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Started &lt;em&gt;Simply Scheme&lt;/em&gt; 19.11, the author says it is hard. I feel that. I
+seemingly have made no progress. I feel as if I can’t quite articulate what I
+am unable to do. Which I suspect is exactly where the problem lies, that is
+if I could articulate it then I could solve it. Or rather the difficult part
+of the problem is either actually saying what I am trying to do, or rather
+the problem is actually know what I want to do. Isn’t it always. Or maybe I
+just feel that way because I am reading Douglas Adam’s &lt;em&gt;The Hitchhikers Guide
+to the Galaxy&lt;/em&gt; right now…&lt;/p&gt;
+
+    &lt;p&gt;So far, everytime I go to write my &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;repeated&lt;/code&gt; function, I end up not being
+able to recurse, it is amazing how many times my brain can dream up the
+same idea, and excitedly think that it has found a new way of tackling the
+problem. Once I do manage to solve the problem, I plan to do a write up of
+solving it, as I think that might help others who make it as far as I have
+in the book and help cement the ideas in my head.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="simply scheme" /><category term="bioinformatics and functional genomics" /><summary type="html">Bioinformatics and Functional Genomics chapter 2 exercises.</summary></entry><entry><title type="html">Blog</title><link href="http://localhost:4000/2020/11/19/blog.html" rel="alternate" type="text/html" title="Blog" /><published>2020-11-19T00:00:00-07:00</published><updated>2020-11-19T00:00:00-07:00</updated><id>http://localhost:4000/2020/11/19/blog</id><content type="html" xml:base="http://localhost:4000/2020/11/19/blog.html">&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;19.9 and 19.10 from &lt;em&gt;Simply Scheme&lt;/em&gt;. I definitely need more practice
+recursing through tree data structures. I am able to almost get them
+working but I often feel as if understanding what is really going on
+is just barely there and I have trouble working through exactly what I
+need to change to get them working correctly.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Chapter 2 from &lt;em&gt;Bioinformatics and Functional Genomics&lt;/em&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;5-2 from &lt;em&gt;Digital Computer Electronics&lt;/em&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="simply scheme" /><category term="bioinformatics" /><summary type="html">19.9 and 19.10 from Simply Scheme. I definitely need more practice recursing through tree data structures. I am able to almost get them working but I often feel as if understanding what is really going on is just barely there and I have trouble working through exactly what I need to change to get them working correctly.</summary></entry><entry><title type="html">Blog</title><link href="http://localhost:4000/2020/11/17/blog.html" rel="alternate" type="text/html" title="Blog" /><published>2020-11-17T00:00:00-07:00</published><updated>2020-11-17T00:00:00-07:00</updated><id>http://localhost:4000/2020/11/17/blog</id><content type="html" xml:base="http://localhost:4000/2020/11/17/blog.html">&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Chapter 4: NumPy Basics: Arrays and Vectorized Computation of &lt;em&gt;Python
+for Data Analysis&lt;/em&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Worked on integrating LaTeX into Anki for making flash cards with
+mathematical notation.&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;5.1 of &lt;em&gt;Digital Computer Electronics&lt;/em&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="simply scheme" /><category term="python" /><category term="Python for Data Analysis" /><summary type="html">Chapter 4: NumPy Basics: Arrays and Vectorized Computation of Python for Data Analysis</summary></entry><entry><title type="html">Daily Update</title><link href="http://localhost:4000/2020/11/14/Daily-Update.html" rel="alternate" type="text/html" title="Daily Update" /><published>2020-11-14T00:00:00-07:00</published><updated>2020-11-14T00:00:00-07:00</updated><id>http://localhost:4000/2020/11/14/Daily-Update</id><content type="html" xml:base="http://localhost:4000/2020/11/14/Daily-Update.html">&lt;ul&gt;
+  &lt;li&gt;Finished Chapter 18 exercises from &lt;em&gt;Simply Scheme&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;
+
+- Spent a lot more time on Course Project for [*Genomic Data Science with
+Galaxy*](https://www.coursera.org/learn/galaxy-project/home/welcome). I am
+not so sure that this course is worth the time that I am putting into it.
+While Galaxy seems like a good tool for doing genomic analyses and it does
+provide good examples of reproducible workflows, I really only was doing the
+course as a part of the certification. I may end up finishing it when I have
+actually completed the other course in the specialization.  
+
+&lt;p&gt;  
+
+- Reading:
+  
+  - Chapter 12: Binary Adding Machine from *Code: The Hidden Language of Computers*
+&lt;/p&gt;&lt;/p&gt;</content><author><name></name></author><category term="simply scheme" /><category term="bioinformatics" /><category term="code the hidden language of computers" /><summary type="html">Finished Chapter 18 exercises from Simply Scheme.</summary></entry><entry><title type="html">Daily_update</title><link href="http://localhost:4000/2020/11/13/Daily_Update.html" rel="alternate" type="text/html" title="Daily_update" /><published>2020-11-13T00:00:00-07:00</published><updated>2020-11-13T00:00:00-07:00</updated><id>http://localhost:4000/2020/11/13/Daily_Update</id><content type="html" xml:base="http://localhost:4000/2020/11/13/Daily_Update.html">&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Worked on the Course Project for &lt;a href=&quot;https://www.coursera.org/learn/galaxy-project/home/welcome&quot;&gt;&lt;em&gt;Genomic Data Science with Galaxy&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Finished 18.5! I ended up re-writing my lateral function to do the
+passing over instead of my depth-wise function, which allowed me to
+eliminate the blank lists that I had kept ending up with before.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="simply scheme" /><category term="genomics" /><summary type="html">Worked on the Course Project for Genomic Data Science with Galaxy.</summary></entry><entry><title type="html">Daily Update</title><link href="http://localhost:4000/2020/11/12/Daily-Update.html" rel="alternate" type="text/html" title="Daily Update" /><published>2020-11-12T00:00:00-07:00</published><updated>2020-11-12T00:00:00-07:00</updated><id>http://localhost:4000/2020/11/12/Daily-Update</id><content type="html" xml:base="http://localhost:4000/2020/11/12/Daily-Update.html">&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Module 4 and 5 of &lt;em&gt;Genomic Data Science with Galaxy&lt;/em&gt; course.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Spent lots of time working on 18.5 of &lt;em&gt;Simply Scheme&lt;/em&gt;. I think that
+the way that I am trying to pass over the parts of the list that I
+don’t want to keep is the problem.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="genomics" /><category term="simply scheme" /><summary type="html">Module 4 and 5 of Genomic Data Science with Galaxy course.</summary></entry></feed>

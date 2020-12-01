@@ -1,0 +1,156 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Daily Progress</title>
+
+        <link rel="stylesheet" type="text/css" href="/assets/styles/main.css">
+        
+        <!-- Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-XXXXX-Y', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- End Google Analytics -->
+
+
+    </head>
+    <body>
+        <nav>
+  
+    <a href="/" 
+    
+      class="link"
+    >
+      Home 
+    </a>
+    &nbsp;
+  
+    <a href="/about/" 
+    
+      class="link"
+    >
+      About 
+    </a>
+    &nbsp;
+  
+    <a href="/articles/" 
+    
+      class="link"
+    >
+      Articles 
+    </a>
+    &nbsp;
+  
+    <a href="/blog/" 
+    
+      class="link"
+    >
+      Blog 
+    </a>
+    &nbsp;
+  
+</nav>
+        <h1> 11 Sep 2020 </h1>
+
+<ul>
+  <li>
+    <p><em>Generating Shellcode and Getting Root</em> in Heath Adam’s <a href="https://www.udemy.com/course/practical-ethical-hacking/"><em>Practical Ethical
+Hacking</em></a> course
+on Udemy.</p>
+  </li>
+  <li>
+    <p>1.5 hours of work on the <em>Scoring Poker Hands</em> project in <strong>Simply
+Scheme</strong>. Produced functions to deal with hands produced by matching
+ranks. Next session I plan to develop a function to sort the ranks into
+appropriate order and then score flush hands. Finally I can produce
+a master function that will be able to determine the value of any given
+hand.</p>
+  </li>
+  <li>
+    <p>Reread Chapter 2 of <strong>Simply Scheme</strong> for review.</p>
+  </li>
+  <li>
+    <p>I was being driven crazy by the system beep tone whenever I accidently
+entered an invalid keysequence or tried to tab to a file that didn’t
+exist. I am running Kali Linux with the XFCE desktop. To turn it off, you
+can open a terminal and enter: <code class="language-plaintext highlighter-rouge">xset -b</code>. To permanently turn off the tone
+I created a startup program by going to Settings Manager -&gt; Session and
+Startup -&gt; Application Autostart -&gt; <code class="language-plaintext highlighter-rouge">+ Add</code> With the settings:</p>
+
+    <ul>
+      <li>
+        <p>Name PC Speaker Off</p>
+      </li>
+      <li>
+        <p>Command: <code class="language-plaintext highlighter-rouge">xset -b</code></p>
+      </li>
+      <li>
+        <p>Trigger: on login</p>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <p><code class="language-plaintext highlighter-rouge">vim</code> command of the day: <code class="language-plaintext highlighter-rouge">%</code> is used to jump to a matching parenthesis,
+square bracket, or curly brace, the start or end of a C-style comment,
+as well as other matching keywords/conditionals if they are specified in
+ftplugin files.</p>
+  </li>
+  <li>
+    <p><a href="https://www.freecodecamp.org/learn/">freeCodeCamp’s Responsive Web Design
+Certification</a> <em>Adjust the Margin
+of an Element</em> → <em>Improve Compatibility with Browser Fallbacks</em></p>
+  </li>
+  <li>
+    <p>Worked through HTB: Lame without metasploit as OSCP practice. I ended up
+writing my own python script for, though it looks a lot like other
+available ones, though I wrote it for python 3.</p>
+  </li>
+</ul>
+
+<h3 id="htb-lame-notes">HTB: Lame Notes</h3>
+
+<p>A few further notes. An important part of the script is assignment of the
+shellcode with the call:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>userID = "/=` nohup " + buf + "`"
+</code></pre></div></div>
+
+<p>There are two important things about this. The first does not actually
+directly relate to this call itself but rather the msfvenom payload
+referenced by <code class="language-plaintext highlighter-rouge">buf</code>. You need to be sure to delete the <code class="language-plaintext highlighter-rouge">b</code> at the
+beginning of each line that will tell python that it is byte code. By
+removing this, python reads the line as a string and can therefore
+concatenate it with the other strings you have supplied. The second is the
+call to <code class="language-plaintext highlighter-rouge">nohup</code> which is a linux command for “no hookup”. As best I can
+tell, this is because we are trying to run our code between entering the
+logon userID(which is what contains our code) and the system asking for
+a password. To get the required time, we provide this command, which then
+lets our other code run in the background. I will also include a few
+resources that I read through after running through the box as much on my
+own as I could:</p>
+
+<ul>
+  <li>
+    <p><a href="https://linux.101hacks.com/unix/nohup-command/">nohup link</a>.</p>
+  </li>
+  <li>
+    <p><a href="https://0xdf.gitlab.io/2020/04/07/htb-lame.html">Lame Walkthrough 1</a>.</p>
+  </li>
+  <li>
+    <p><a href="https://medium.com/@nmappn/exploiting-smb-samba-without-metasploit-series-1-b34291bbfd63">Lame Walkthrough
+2</a></p>
+  </li>
+  <li>
+    <p><a href="https://amriunix.com/post/cve-2007-2447-samba-usermap-script/">Samba Usermap Script In More
+Detail</a>.</p>
+  </li>
+</ul>
+
+    </body>
+</html>
