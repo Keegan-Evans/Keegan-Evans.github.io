@@ -6,8 +6,9 @@
 
         <link rel="stylesheet" type="text/css" href="/assets/styles/main.css">
         
+        {% if site.google_analytics and jekyll.environment == 'production' %}
         {% include analytics.html %}
-
+        {% endif %}
     </head>
     <body>
         {% include navigation.html %}
