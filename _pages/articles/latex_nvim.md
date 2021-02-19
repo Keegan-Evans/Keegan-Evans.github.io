@@ -52,9 +52,18 @@ documents.
 - Why Latex and NVIM
 -
 ## What is LaTeX and how does it work?
--
+
+## Setting Up LaTeX LSP
+
+### What do wee need?  
+- TeX disturbution
+- pdf viewer
+- `lsp-config` plugin
+- Other LSP plugins
+- Snippets plugins
+- LSP server for LaTeX: texlab
+- 
 - Previewing LaTeX
 -
-- Setting Up LaTeX LSP
 -
 - Snippets for LaTeX
