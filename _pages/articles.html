@@ -5,7 +5,7 @@ permalink: /articles/
 
 <h1>Various Thoughts About Various Things</h1>
 
-{% for article in site._pages.articles %}
+{% for article in site.articles %}
 
   <h2>
     <li>
@@ -14,5 +14,5 @@ permalink: /articles/
       </a>
     </li>
   </h2>
-<!--  <p>{{ article.content | markdownify }}</p> -->
+
 {% endfor %}

@@ -18,7 +18,7 @@ $myWidth: 680px;
 body {
   font-size: 18px;
   font-family: Arial;
-  background-color: $birch-bark;
+  background-color: #FFFFFF;
   color: $off-black;
 }
 
@@ -31,6 +31,6 @@ p {
     
     &--active {
             @extend .link;
-            color: $birch-leaves;    
+            color: $autumn-orange;    
         }
 }

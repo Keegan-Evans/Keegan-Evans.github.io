@@ -65,6 +65,12 @@ defaults:
       layout: default
 
 include: [_pages]
-  
+
+collections:
+  articles:
+    output: true
+  articles/software:
+    output: true
+
 sass:
   style: compressed
