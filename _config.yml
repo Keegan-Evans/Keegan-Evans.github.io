@@ -71,6 +71,8 @@ collections:
     output: true
   articles/software:
     output: true
+  portfolio:
+    output: true
 
 sass:
   style: compressed

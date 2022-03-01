@@ -1,0 +1,17 @@
+---
+---
+<!DOCTYPE html>
+<html>
+    <body>
+        {% assign port = site.portfolio | group_by: 'category' %}
+        {%  for cat in port %}
+        <h2>{{ cat.name | capitalize }}</h2>
+            <ul>
+                {% assign items = cat.items | sort: 'order' %}
+                {% for item in items %}
+                    <li><a href="{{ item.url }}">{{ item.Title }}</a></li>
+                {% endfor %}
+            </ul>
+        {% endfor %}
+    </body>
+</html>
