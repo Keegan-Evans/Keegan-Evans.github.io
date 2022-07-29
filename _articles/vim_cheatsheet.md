@@ -88,6 +88,21 @@ commands you know, but simply with the that particular register ase either the
 input or destination.
 
 
+## Search and replace
+
+### Specifiying Range
+#### Location Chart
+| Character | Location |
+|:-:|:-:|
+| . | Current Line |
+| $ | Last Line |
+| % | Entire File |
+| +X | From starting location to the next `X` lines |
+| '<, '> | beginnning and end of visual selection |
+| 'x | mark x (`'x`)[^1] |
+
+[^1]: You can use different marks to designate the beginning and ending of the
+  search.
 <!-- Drafts: future/inprogress topics
 ## Linewise vs Characterwise Registers
 ## Displaying Whitespace Characters

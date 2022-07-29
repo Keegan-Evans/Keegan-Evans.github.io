@@ -2,7 +2,7 @@
 Title: QIIME2 Semantic Validation
 category: software
 order: 1
-layout: portfolio
+layout: page
 ---
 
 ![Semantic-Validation](https://drive.google.com/uc?id=17hpLptK4qvWhNVF-7lpdEDEgk4I46qlp){: width="200px"}
