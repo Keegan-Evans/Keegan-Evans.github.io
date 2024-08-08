@@ -1,0 +1,9 @@
+name: website-dev
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - ruby
+  - gcc
+  - g++
+  - conda-forge::make
