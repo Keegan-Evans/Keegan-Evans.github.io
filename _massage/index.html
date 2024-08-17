@@ -1,0 +1,16 @@
+---
+title: Massage Home
+permalink: /massage/
+layout: page
+---
+
+<body>
+    <ul>
+        {% for page in site.massage %}
+        {% unless page.title == "Massage Home" %}
+
+        <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+        {%- endunless -%}
+        {% endfor %}
+    </ul>
+</body>
